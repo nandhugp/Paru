@@ -9,7 +9,7 @@
       "Gita Rahasya"
     ],
     "correct": 2,
-    [span_0](start_span)"explanation": "B.R. Ambedkar wrote the social reform essay 'Annihilation of Caste'[span_0](end_span)."
+    "explanation": "B.R. Ambedkar wrote the social reform essay 'Annihilation of Caste'."
   },
   {
     "id": 1,
@@ -21,7 +21,7 @@
       "Pound Sterling"
     ],
     "correct": 2,
-    [span_1](start_span)"explanation": "The currency of Russia is the Ruble[span_1](end_span)."
+    "explanation": "The currency of Russia is the Ruble."
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
       "International Atomic Energy Agency (IAEA)"
     ],
     "correct": 2,
-    [span_2](start_span)"explanation": "The International Court of Justice (ICJ) is headquartered in The Hague[span_2](end_span)."
+    "explanation": "The International Court of Justice (ICJ) is headquartered in The Hague."
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
       "Montreal"
     ],
     "correct": 2,
-    [span_3](start_span)"explanation": "The capital of Canada is Ottawa[span_3](end_span)."
+    "explanation": "The capital of Canada is Ottawa."
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "Arctic Ocean"
     ],
     "correct": 3,
-    [span_4](start_span)"explanation": "The Arctic Ocean is the smallest ocean[span_4](end_span)."
+    "explanation": "The Arctic Ocean is the smallest ocean."
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@
       "Sri Lanka"
     ],
     "correct": 1,
-    [span_5](start_span)"explanation": "Bhutan is known as the 'Land of the Thunder Dragon'[span_5](end_span)."
+    "explanation": "Bhutan is known as the 'Land of the Thunder Dragon'."
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
       "Subhas Chandra Bose"
     ],
     "correct": 2,
-    [span_6](start_span)"explanation": "Jawaharlal Nehru wrote 'Glimpses of World History' as letters to his daughter from prison[span_6](end_span)."
+    "explanation": "Jawaharlal Nehru wrote 'Glimpses of World History' as letters to his daughter from prison."
   },
   {
     "id": 7,
@@ -93,7 +93,7 @@
       "Skandagupta"
     ],
     "correct": 2,
-    [span_7](start_span)"explanation": "Kumaragupta I founded Nalanda University, an ancient seat of learning[span_7](end_span)."
+    "explanation": "Kumaragupta I founded Nalanda University, an ancient seat of learning."
   },
   {
     "id": 8,
@@ -105,7 +105,7 @@
       "Kabul, Afghani"
     ],
     "correct": 0,
-    [span_8](start_span)"explanation": "The capital of Bangladesh is Dhaka and its currency is the Taka[span_8](end_span)."
+    "explanation": "The capital of Bangladesh is Dhaka and its currency is the Taka."
   },
   {
     "id": 9,
@@ -117,7 +117,7 @@
       "Hospitals"
     ],
     "correct": 1,
-    [span_9](start_span)[span_10](start_span)"explanation": "The Swachh Bharat Mission offers financial aid to build toilets and promotes sanitation awareness[span_9](end_span)[span_10](end_span)."
+    "explanation": "The Swachh Bharat Mission offers financial aid to build toilets and promotes sanitation awareness."
   },
   {
     "id": 10,
@@ -129,7 +129,7 @@
       "Brihadratha"
     ],
     "correct": 3,
-    [span_11](start_span)"explanation": "Brihadratha was the last Mauryan ruler, and he was killed by his commander-in-chief, Pushyamitra Shunga[span_11](end_span)."
+    "explanation": "Brihadratha was the last Mauryan ruler, and he was killed by his commander-in-chief, Pushyamitra Shunga."
   },
   {
     "id": 11,
@@ -141,7 +141,7 @@
       "Common Sense About the War"
     ],
     "correct": 2,
-    [span_12](start_span)"explanation": "Dadabhai Naoroji's book 'Poverty and Un-British Rule in India' outlines his 'Drain of Wealth' theory[span_12](end_span)."
+    "explanation": "Dadabhai Naoroji's book 'Poverty and Un-British Rule in India' outlines his 'Drain of Wealth' theory."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Karnataka"
     ],
     "correct": 2,
-    [span_13](start_span)"explanation": "The Mahabodhi Temple is a World Heritage site located in Bodh Gaya, Bihar[span_13](end_span)."
+    "explanation": "The Mahabodhi Temple is a World Heritage site located in Bodh Gaya, Bihar."
   },
   {
     "id": 13,
@@ -165,7 +165,7 @@
       "PM Kisan Samman Nidhi"
     ],
     "correct": 2,
-    [span_14](start_span)[span_15](start_span)"explanation": "PM Awas Yojana (PMAY) provides an interest subsidy on home loans up to ₹2.67 lakh[span_14](end_span)[span_15](end_span)."
+    "explanation": "PM Awas Yojana (PMAY) provides an interest subsidy on home loans up to ₹2.67 lakh."
   },
   {
     "id": 14,
@@ -177,7 +177,7 @@
       "North America"
     ],
     "correct": 2,
-    [span_16](start_span)"explanation": "The Nile River, considered the longest river, is in Africa[span_16](end_span)."
+    "explanation": "The Nile River, considered the longest river, is in Africa."
   },
   {
     "id": 15,
@@ -189,7 +189,7 @@
       "Maharashtra"
     ],
     "correct": 2,
-    [span_17](start_span)"explanation": "The Group of Monuments at Mahabalipuram is in the Kancheepuram District of Tamil Nadu[span_17](end_span)."
+    "explanation": "The Group of Monuments at Mahabalipuram is in the Kancheepuram District of Tamil Nadu."
   },
   {
     "id": 16,
@@ -201,7 +201,7 @@
       "Australia"
     ],
     "correct": 2,
-    [span_18](start_span)"explanation": "New Zealand was the first country to grant women voting rights in 1893[span_18](end_span)."
+    "explanation": "New Zealand was the first country to grant women voting rights in 1893."
   },
   {
     "id": 17,
@@ -213,7 +213,7 @@
       "Perth"
     ],
     "correct": 2,
-    [span_19](start_span)"explanation": "Canberra is the capital of Australia[span_19](end_span)."
+    "explanation": "Canberra is the capital of Australia."
   },
   {
     "id": 18,
@@ -225,7 +225,7 @@
       "Xuanzang"
     ],
     "correct": 2,
-    [span_20](start_span)"explanation": "The Chinese pilgrim Fa-Hien visited the Gupta Empire during the reign of Chandragupta II[span_20](end_span)."
+    "explanation": "The Chinese pilgrim Fa-Hien visited the Gupta Empire during the reign of Chandragupta II."
   },
   {
     "id": 19,
@@ -237,7 +237,7 @@
       "Lhotse"
     ],
     "correct": 2,
-    [span_21](start_span)"explanation": "Mount Everest is the highest mountain at 8,849 m[span_21](end_span)."
+    "explanation": "Mount Everest is the highest mountain at 8,849 m."
   },
   {
     "id": 20,
@@ -249,7 +249,7 @@
       "Sardar Patel"
     ],
     "correct": 2,
-    [span_22](start_span)"explanation": "'The Indian Struggle' is a book by Subhas Chandra Bose about the nationalist movement[span_22](end_span)."
+    "explanation": "'The Indian Struggle' is a book by Subhas Chandra Bose about the nationalist movement."
   },
   {
     "id": 21,
@@ -261,7 +261,7 @@
       "Hampi Group of Monuments"
     ],
     "correct": 1,
-    [span_23](start_span)"explanation": "The Sun Temple in Konark, Odisha, is a UNESCO World Heritage site[span_23](end_span)."
+    "explanation": "The Sun Temple in Konark, Odisha, is a UNESCO World Heritage site."
   },
   {
     "id": 22,
@@ -273,7 +273,7 @@
       "Free office space"
     ],
     "correct": 1,
-    [span_24](start_span)"explanation": "The Startup India Scheme provides benefits like tax exemption, easy patent filing, and funding support[span_24](end_span)."
+    "explanation": "The Startup India Scheme provides benefits like tax exemption, easy patent filing, and funding support."
   },
   {
     "id": 23,
@@ -285,7 +285,7 @@
       "Myanmar"
     ],
     "correct": 2,
-    [span_25](start_span)"explanation": "Thailand is known as the 'Land of White Elephants'[span_25](end_span)."
+    "explanation": "Thailand is known as the 'Land of White Elephants'."
   },
   {
     "id": 24,
@@ -297,7 +297,7 @@
       "Washington, D.C., USA"
     ],
     "correct": 3,
-    [span_26](start_span)"explanation": "The World Bank and the International Monetary Fund (IMF) have their headquarters in Washington, D.C.[span_26](end_span)."
+    "explanation": "The World Bank and the International Monetary Fund (IMF) have their headquarters in Washington, D.C.."
   },
   {
     "id": 25,
@@ -309,7 +309,7 @@
       "Italy"
     ],
     "correct": 2,
-    [span_27](start_span)"explanation": "Mauna Loa, located in Hawaii, USA, is the largest volcano[span_27](end_span)."
+    "explanation": "Mauna Loa, located in Hawaii, USA, is the largest volcano."
   },
   {
     "id": 26,
@@ -321,7 +321,7 @@
       "Riyadh"
     ],
     "correct": 1,
-    [span_28](start_span)"explanation": "Abu Dhabi is the capital of the UAE[span_28](end_span)."
+    "explanation": "Abu Dhabi is the capital of the UAE."
   },
   {
     "id": 27,
@@ -333,7 +333,7 @@
       "Tamil Nadu"
     ],
     "correct": 3,
-    [span_29](start_span)"explanation": "The Brihadeshwara Temple is in Thanjavur, Tamil Nadu[span_29](end_span)."
+    "explanation": "The Brihadeshwara Temple is in Thanjavur, Tamil Nadu."
   },
   {
     "id": 28,
@@ -345,7 +345,7 @@
       "Fa-Hien"
     ],
     "correct": 1,
-    [span_30](start_span)"explanation": "Megasthenes was a Greek ambassador who wrote about the Maurya Empire in his book 'Indica'[span_30](end_span)."
+    "explanation": "Megasthenes was a Greek ambassador who wrote about the Maurya Empire in his book 'Indica'."
   },
   {
     "id": 29,
@@ -357,7 +357,7 @@
       "18 years"
     ],
     "correct": 1,
-    [span_31](start_span)[span_32](start_span)"explanation": "The Sukanya Samriddhi Yojana account can be opened for a girl child under 10 years of age[span_31](end_span)[span_32](end_span)."
+    "explanation": "The Sukanya Samriddhi Yojana account can be opened for a girl child under 10 years of age."
   },
   {
     "id": 30,
@@ -369,7 +369,7 @@
       "New Zealand"
     ],
     "correct": 0,
-    [span_33](start_span)"explanation": "Canada is known as the 'Land of Maple Leaf'[span_33](end_span)."
+    "explanation": "Canada is known as the 'Land of Maple Leaf'."
   },
   {
     "id": 31,
@@ -381,7 +381,7 @@
       "Great Bear Lake"
     ],
     "correct": 2,
-    [span_34](start_span)"explanation": "Lake Baikal, located in Russia, is the deepest lake in the world[span_34](end_span)."
+    "explanation": "Lake Baikal, located in Russia, is the deepest lake in the world."
   },
   {
     "id": 32,
@@ -393,7 +393,7 @@
       "All citizens"
     ],
     "correct": 0,
-    [span_35](start_span)"explanation": "The Atal Pension Yojana (APY) is for citizens aged 18–40 years, especially those in the unorganized sector[span_35](end_span)."
+    "explanation": "The Atal Pension Yojana (APY) is for citizens aged 18–40 years, especially those in the unorganized sector."
   },
   {
     "id": 33,
@@ -405,7 +405,7 @@
       "Maharashtra"
     ],
     "correct": 1,
-    [span_36](start_span)"explanation": "The Khajuraho Group of Monuments is located in the Chhatarpur District of Madhya Pradesh[span_36](end_span)."
+    "explanation": "The Khajuraho Group of Monuments is located in the Chhatarpur District of Madhya Pradesh."
   },
   {
     "id": 34,
@@ -417,7 +417,7 @@
       "Ghatotkacha"
     ],
     "correct": 1,
-    [span_37](start_span)"explanation": "Sri Gupta was the founder of the Gupta dynasty and held the title of Maharaja[span_37](end_span)."
+    "explanation": "Sri Gupta was the founder of the Gupta dynasty and held the title of Maharaja."
   },
   {
     "id": 35,
@@ -429,7 +429,7 @@
       "Beti Bachao Beti Padhao"
     ],
     "correct": 1,
-    [span_38](start_span)"explanation": "The National Nutrition Mission is also known as POSHAN Abhiyaan[span_38](end_span)."
+    "explanation": "The National Nutrition Mission is also known as POSHAN Abhiyaan."
   },
   {
     "id": 36,
@@ -441,7 +441,7 @@
       "Kuwaiti Dinar"
     ],
     "correct": 3,
-    [span_39](start_span)"explanation": "The Kuwaiti Dinar has the highest value of any currency[span_39](end_span)."
+    "explanation": "The Kuwaiti Dinar has the highest value of any currency."
   },
   {
     "id": 37,
@@ -453,7 +453,7 @@
       "Tamil Nadu"
     ],
     "correct": 1,
-    [span_40](start_span)"explanation": "Ellora Caves and Elephanta Caves are located in Maharashtra[span_40](end_span)."
+    "explanation": "Ellora Caves and Elephanta Caves are located in Maharashtra."
   },
   {
     "id": 38,
@@ -465,7 +465,7 @@
       "India"
     ],
     "correct": 1,
-    [span_41](start_span)"explanation": "The Jinping-I Dam in China is the highest dam in the world[span_41](end_span)."
+    "explanation": "The Jinping-I Dam in China is the highest dam in the world."
   },
   {
     "id": 39,
@@ -477,7 +477,7 @@
       "Senior citizens"
     ],
     "correct": 2,
-    [span_42](start_span)[span_43](start_span)"explanation": "DDU-GKY provides free skill training and placement support to rural youth aged 15–35 from poor households[span_42](end_span)[span_43](end_span)."
+    "explanation": "DDU-GKY provides free skill training and placement support to rural youth aged 15–35 from poor households."
   },
   {
     "id": 40,
@@ -489,7 +489,7 @@
       "Vinoba Bhave"
     ],
     "correct": 1,
-    [span_44](start_span)"explanation": "Swami Dayanand Saraswati wrote 'Satyarth Prakash' to outline the principles of the Arya Samaj[span_44](end_span)."
+    "explanation": "Swami Dayanand Saraswati wrote 'Satyarth Prakash' to outline the principles of the Arya Samaj."
   },
   {
     "id": 41,
@@ -501,7 +501,7 @@
       "Johannesburg, Durban, Bloemfontein"
     ],
     "correct": 2,
-    [span_45](start_span)"explanation": "South Africa has three capitals: Pretoria (Administrative), Cape Town (Legislative), and Bloemfontein (Judicial)[span_45](end_span)."
+    "explanation": "South Africa has three capitals: Pretoria (Administrative), Cape Town (Legislative), and Bloemfontein (Judicial)."
   },
   {
     "id": 42,
@@ -513,7 +513,7 @@
       "PM Fasal Bima Yojana"
     ],
     "correct": 2,
-    [span_46](start_span)"explanation": "The PM Krishi Sinchayee Yojana (PMKSY) provides irrigation subsidies and promotes micro-irrigation[span_46](end_span)."
+    "explanation": "The PM Krishi Sinchayee Yojana (PMKSY) provides irrigation subsidies and promotes micro-irrigation."
   },
   {
     "id": 43,
@@ -525,7 +525,7 @@
       "Jakarta, Rupiah"
     ],
     "correct": 0,
-    [span_47](start_span)"explanation": "Singapore's capital is Singapore, and its currency is the Singapore Dollar[span_47](end_span)."
+    "explanation": "Singapore's capital is Singapore, and its currency is the Singapore Dollar."
   },
   {
     "id": 44,
@@ -537,7 +537,7 @@
       "Maharashtra"
     ],
     "correct": 2,
-    [span_48](start_span)"explanation": "The Group of Monuments at Hampi is located in the Ballari District of Karnataka[span_48](end_span)."
+    "explanation": "The Group of Monuments at Hampi is located in the Ballari District of Karnataka."
   },
   {
     "id": 45,
@@ -549,7 +549,7 @@
       "Greece"
     ],
     "correct": 1,
-    [span_49](start_span)"explanation": "China was the first country to print books[span_49](end_span)."
+    "explanation": "China was the first country to print books."
   },
   {
     "id": 46,
@@ -561,7 +561,7 @@
       "Digital India Mission"
     ],
     "correct": 1,
-    [span_50](start_span)"explanation": "The AMRUT Scheme focuses on urban water supply, sewage, and green spaces in cities with a population of 1 lakh or more[span_50](end_span)."
+    "explanation": "The AMRUT Scheme focuses on urban water supply, sewage, and green spaces in cities with a population of 1 lakh or more."
   },
   {
     "id": 47,
@@ -573,7 +573,7 @@
       "Odisha"
     ],
     "correct": 1,
-    [span_51](start_span)"explanation": "The Ramappa Temple is a World Heritage site located in the Mulugu District of Telangana[span_51](end_span)."
+    "explanation": "The Ramappa Temple is a World Heritage site located in the Mulugu District of Telangana."
   },
   {
     "id": 48,
@@ -585,7 +585,7 @@
       "Canadian Dollar"
     ],
     "correct": 2,
-    [span_52](start_span)"explanation": "The currency of the United Kingdom is the Pound Sterling[span_52](end_span)."
+    "explanation": "The currency of the United Kingdom is the Pound Sterling."
   },
   {
     "id": 49,
@@ -597,6 +597,6 @@
       "Sardar Patel"
     ],
     "correct": 2,
-    [span_53](start_span)"explanation": "'The Indian Struggle' is a book by Subhas Chandra Bose about the nationalist movement[span_53](end_span)."
+    "explanation": "'The Indian Struggle' is a book by Subhas Chandra Bose about the nationalist movement."
   }
 ]
