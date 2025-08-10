@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct": 1,
+    "explanation": "Plants use Carbon Dioxide (CO2) for photosynthesis to create their food, releasing oxygen as a byproduct."
+  },
+  {
+    "id": 1,
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct": 2,
+    "explanation": "Jupiter is the largest planet, with a diameter of about 142,984 km. It's so big that all other planets could fit inside it."
+  },
+  {
+    "id": 2,
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Tomato",
+      "Onion",
+      "Avocado",
+      "Lime"
+    ],
+    "correct": 2,
+    "explanation": "Avocado is the star of guacamole, giving it its creamy texture and distinctive flavor."
+  },
+  {
+    "id": 3,
+    "question": "In which country would you find the Eiffel Tower?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "France"
+    ],
+    "correct": 3,
+    "explanation": "The Eiffel Tower is a famous landmark located in Paris, the capital city of France."
+  }
+]
