@@ -1,50 +1,602 @@
 [
   {
     "id": 0,
-    "question": "Which gas do plants absorb from the atmosphere?",
+    "question": "Which of the following yojana provides a ₹2 lakh accident insurance with a zero balance account?",
     "options": [
-      "Oxygen",
-      "Carbon Dioxide",
-      "Nitrogen",
-      "Hydrogen"
+      "PM Ujjwala Yojana (PMUY)",
+      "PM Jan Dhan Yojana (PMJDY)",
+      "PM Awas Yojana (PMAY)",
+      "PM Kisan Samman Nidhi (PM-KISAN)"
     ],
     "correct": 1,
-    "explanation": "Plants use Carbon Dioxide (CO2) for photosynthesis to create their food, releasing oxygen as a byproduct."
+    "explanation": "PM Jan Dhan Yojana (PMJDY) offers a zero balance account and a RuPay card with ₹2 lakh accident insurance."
   },
   {
     "id": 1,
-    "question": "What is the largest planet in our solar system?",
+    "question": "What is the primary benefit of the PM Ujjwala Yojana (PMUY)?",
     "options": [
-      "Earth",
-      "Mars",
-      "Jupiter",
-      "Saturn"
+      "Subsidized home loans",
+      "Free LPG connection",
+      "Annual income support for farmers",
+      "Health insurance cover"
     ],
-    "correct": 2,
-    "explanation": "Jupiter is the largest planet, with a diameter of about 142,984 km. It's so big that all other planets could fit inside it."
+    "correct": 1,
+    "explanation": "The PM Ujjwala Yojana provides a free LPG connection and a ₹1600 subsidy to eligible women from BPL families."
   },
   {
     "id": 2,
-    "question": "What is the main ingredient in guacamole?",
+    "question": "Which scheme provides an annual financial benefit of ₹6,000 to small and marginal farmers?",
     "options": [
-      "Tomato",
-      "Onion",
-      "Avocado",
-      "Lime"
+      "PM Fasal Bima Yojana (PMFBY)",
+      "PM Krishi Sinchayee Yojana (PMKSY)",
+      "PM Kisan Samman Nidhi (PM-KISAN)",
+      "Soil Health Card Scheme"
     ],
     "correct": 2,
-    "explanation": "Avocado is the star of guacamole, giving it its creamy texture and distinctive flavor."
+    "explanation": "PM-KISAN provides ₹6,000 per year, paid in three installments of ₹2,000, to small and marginal farmers."
   },
   {
     "id": 3,
-    "question": "In which country would you find the Eiffel Tower?",
+    "question": "The Ayushman Bharat (PM-JAY) scheme offers a health cover of up to:",
     "options": [
-      "Italy",
-      "Spain",
-      "Germany",
-      "France"
+      "₹1 lakh per family",
+      "₹2 lakh per family",
+      "₹5 lakh per family",
+      "₹10 lakh per family"
+    ],
+    "correct": 2,
+    "explanation": "PM-JAY provides a health cover of ₹5 lakh per family per year for poor and vulnerable families."
+  },
+  {
+    "id": 4,
+    "question": "Which scheme is specifically for pregnant and lactating women, offering a maternity incentive of ₹5,000?",
+    "options": [
+      "Beti Bachao Beti Padhao",
+      "Sukanya Samriddhi Yojana",
+      "PM Matru Vandana Yojana (PMMVY)",
+      "National Nutrition Mission (POSHAN Abhiyaan)"
+    ],
+    "correct": 2,
+    "explanation": "The PM Matru Vandana Yojana (PMMVY) provides a ₹5,000 maternity incentive to eligible women for their first child."
+  },
+  {
+    "id": 5,
+    "question": "The Atal Pension Yojana (APY) provides a monthly pension after the age of 60 for citizens in which age group?",
+    "options": [
+      "18–40 years",
+      "18–50 years",
+      "21–60 years",
+      "40–60 years"
+    ],
+    "correct": 0,
+    "explanation": "Atal Pension Yojana is for citizens aged 18–40 years and offers a monthly pension of ₹1,000–₹5,000 after they turn 60."
+  },
+  {
+    "id": 6,
+    "question": "Under the Pradhan Mantri Mudra Yojana (PMMY), what is the maximum loan amount available under the 'Tarun' category?",
+    "options": [
+      "₹50,000",
+      "₹1 lakh",
+      "₹5 lakh",
+      "₹10 lakh"
     ],
     "correct": 3,
-    "explanation": "The Eiffel Tower is a famous landmark located in Paris, the capital city of France."
+    "explanation": "PMMY provides loans up to ₹50,000 (Shishu), ₹5 lakh (Kishor), and ₹10 lakh (Tarun) without collateral."
+  },
+  {
+    "id": 7,
+    "question": "Which scheme provides financial aid for building toilets and promotes sanitation awareness?",
+    "options": [
+      "Digital India Mission",
+      "Swachh Bharat Mission (SBM)",
+      "Smart Cities Mission",
+      "AMRUT Scheme"
+    ],
+    "correct": 1,
+    "explanation": "The Swachh Bharat Mission focuses on financial aid for toilet construction and achieving ODF status."
+  },
+  {
+    "id": 8,
+    "question": "The UDAN scheme is aimed at making which of the following affordable?",
+    "options": [
+      "Train travel",
+      "Road travel",
+      "Air travel",
+      "Public transport"
+    ],
+    "correct": 2,
+    "explanation": "UDAN (Ude Desh ka Aam Nagrik) is a regional connectivity scheme for affordable air travel, with a fare cap of ₹2,500 for a 1-hour flight."
+  },
+  {
+    "id": 9,
+    "question": "The Pradhan Mantri Awas Yojana (PMAY) provides an interest subsidy on home loans of up to:",
+    "options": [
+      "₹1.5 lakh",
+      "₹2.67 lakh",
+      "₹3.5 lakh",
+      "₹5 lakh"
+    ],
+    "correct": 1,
+    "explanation": "PMAY offers an interest subsidy on home loans for eligible families, up to ₹2.67 lakh."
+  },
+  {
+    "id": 10,
+    "question": "Which ancient book, written by Kautilya (Chanakya), deals with statecraft, economic policy, and military strategy?",
+    "options": [
+      "Indica",
+      "Arthashastra",
+      "Anand Math",
+      "Satyarth Prakash"
+    ],
+    "correct": 1,
+    "explanation": "Chanakya (Kautilya) was the mentor of Chandragupta Maurya and the author of Arthashastra."
+  },
+  {
+    "id": 11,
+    "question": "Who was the Greek ambassador who visited Chandragupta Maurya's court and wrote 'Indica'?",
+    "options": [
+      "Seleucus I Nicator",
+      "Deimachus",
+      "Megasthenes",
+      "Fa-Hien"
+    ],
+    "correct": 2,
+    "explanation": "Megasthenes was a Greek ambassador sent by Seleucus I Nicator to the court of Chandragupta Maurya."
+  },
+  {
+    "id": 12,
+    "question": "Ashoka's Kalinga War is a significant event in his life because it led to:",
+    "options": [
+      "His conversion to Jainism",
+      "The decline of the Maurya Empire",
+      "His embracing of Buddhism",
+      "The expansion of his empire to Southern India"
+    ],
+    "correct": 2,
+    "explanation": "The massive bloodshed of the Kalinga War deeply affected Ashoka, leading him to embrace Buddhism and adopt Dhamma."
+  },
+  {
+    "id": 13,
+    "question": "The Lion Capital of Ashoka, which is India's National Emblem, is located at:",
+    "options": [
+      "Sanchi",
+      "Sarnath",
+      "Dhauli",
+      "Girnar"
+    ],
+    "correct": 1,
+    "explanation": "The Lion Capital of Ashoka at Sarnath is an iconic symbol and was adopted as the National Emblem of India."
+  },
+  {
+    "id": 14,
+    "question": "Who was the last ruler of the Maurya Empire?",
+    "options": [
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha",
+      "Pushyamitra Shunga"
+    ],
+    "correct": 2,
+    "explanation": "Brihadratha was the last Mauryan ruler and was killed by his commander-in-chief, Pushyamitra Shunga."
+  },
+  {
+    "id": 15,
+    "question": "Which Gupta ruler was known as the 'Napoleon of India'?",
+    "options": [
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II",
+      "Skandagupta"
+    ],
+    "correct": 1,
+    "explanation": "Samudragupta was given the title 'Napoleon of India' by the historian V. A. Smith due to his extensive military conquests."
+  },
+  {
+    "id": 16,
+    "question": "The famous Allahabad Pillar Inscription, which details the conquests of Samudragupta, was composed by:",
+    "options": [
+      "Kalidasa",
+      "Fa-Hien",
+      "Harishena",
+      "Aryabhata"
+    ],
+    "correct": 2,
+    "explanation": "Harishena, a court poet of Samudragupta, composed the Allahabad Pillar Inscription."
+  },
+  {
+    "id": 17,
+    "question": "The Iron Pillar of Mehrauli, known for its rust-resistant composition, is attributed to which Gupta ruler?",
+    "options": [
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I"
+    ],
+    "correct": 2,
+    "explanation": "The Iron Pillar of Mehrauli is a metallurgical marvel and is attributed to Chandragupta II (Vikramaditya)."
+  },
+  {
+    "id": 18,
+    "question": "Who founded the Nalanda University, a famous ancient seat of learning?",
+    "options": [
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta"
+    ],
+    "correct": 2,
+    "explanation": "Nalanda University, a center for Buddhist learning, was founded by Kumaragupta I."
+  },
+  {
+    "id": 19,
+    "question": "The greatest Sanskrit poet and dramatist Kalidasa was a part of whose court's 'Navaratnas' (Nine Gems)?",
+    "options": [
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II",
+      "Skandagupta"
+    ],
+    "correct": 2,
+    "explanation": "The court of Chandragupta II was adorned with the Navaratnas, which included the famous poet Kalidasa."
+  },
+  {
+    "id": 20,
+    "question": "Who authored the book 'India Wins Freedom'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Maulana Abul Kalam Azad",
+      "Mahatma Gandhi",
+      "Lala Lajpat Rai"
+    ],
+    "correct": 1,
+    "explanation": "'India Wins Freedom' is a memoir by Maulana Abul Kalam Azad, focusing on the events of the partition and independence."
+  },
+  {
+    "id": 21,
+    "question": "The book 'Discovery of India' was written by which political leader while in prison?",
+    "options": [
+      "Subhas Chandra Bose",
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Jayaprakash Narayan"
+    ],
+    "correct": 2,
+    "explanation": "Jawaharlal Nehru wrote 'Discovery of India' during his imprisonment at Ahmednagar Fort."
+  },
+  {
+    "id": 22,
+    "question": "The famous theory of 'Drain of Wealth' was proposed by whom in the book 'Poverty and Un-British Rule in India'?",
+    "options": [
+      "Romesh Chunder Dutt",
+      "Dadabhai Naoroji",
+      "Bal Gangadhar Tilak",
+      "Mahatma Gandhi"
+    ],
+    "correct": 1,
+    "explanation": "Dadabhai Naoroji, in his book 'Poverty and Un-British Rule in India', extensively discussed the 'Drain of Wealth' theory."
+  },
+  {
+    "id": 23,
+    "question": "Which freedom fighter wrote the essay 'Why I Am an Atheist'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Bhagat Singh",
+      "Jawaharlal Nehru",
+      "Vinoba Bhave"
+    ],
+    "correct": 1,
+    "explanation": "Bhagat Singh wrote the powerful essay 'Why I Am an Atheist' in jail."
+  },
+  {
+    "id": 24,
+    "question": "The novel 'Anand Math' by Bankim Chandra Chatterjee is famous for including which national song?",
+    "options": [
+      "Jana Gana Mana",
+      "Vande Mataram",
+      "Saare Jahan Se Achcha",
+      "Aye Mere Watan Ke Logo"
+    ],
+    "correct": 1,
+    "explanation": "The national song 'Vande Mataram' is a part of Bankim Chandra Chatterjee's novel 'Anand Math'."
+  },
+  {
+    "id": 25,
+    "question": "Who wrote the book 'Pakistan or The Partition of India'?",
+    "options": [
+      "Maulana Abul Kalam Azad",
+      "L.K. Advani",
+      "B.R. Ambedkar",
+      "Lala Lajpat Rai"
+    ],
+    "correct": 2,
+    "explanation": "Dr. B.R. Ambedkar wrote 'Pakistan or The Partition of India' as a political analysis of the issue."
+  },
+  {
+    "id": 26,
+    "question": "The book 'Gita Rahasya' is an interpretation of the Bhagavad Gita written by:",
+    "options": [
+      "Swami Dayanand Saraswati",
+      "Bal Gangadhar Tilak",
+      "Vinoba Bhave",
+      "M.S. Golwalkar"
+    ],
+    "correct": 1,
+    "explanation": "Bal Gangadhar Tilak wrote 'Gita Rahasya' during his imprisonment in Mandalay."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following books was written by Mahatma Gandhi?",
+    "options": [
+      "Toward Freedom",
+      "The Indian Struggle",
+      "My Country My Life",
+      "My Experiments with Truth"
+    ],
+    "correct": 3,
+    "explanation": "'The Story of My Experiments with Truth' is the autobiography of Mahatma Gandhi."
+  },
+  {
+    "id": 28,
+    "question": "Which country's capital is Tokyo and its currency is the Yen?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correct": 2,
+    "explanation": "Tokyo is the capital of Japan, and its currency is the Japanese Yen."
+  },
+  {
+    "id": 29,
+    "question": "The headquarters of the World Health Organization (WHO) are located in:",
+    "options": [
+      "New York, USA",
+      "Washington, D.C., USA",
+      "Geneva, Switzerland",
+      "Paris, France"
+    ],
+    "correct": 2,
+    "explanation": "The WHO headquarters are in Geneva, Switzerland."
+  },
+  {
+    "id": 30,
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Thailand"
+    ],
+    "correct": 1,
+    "explanation": "Japan is popularly known as the 'Land of the Rising Sun'."
+  },
+  {
+    "id": 31,
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Dubai",
+      "Abu Dhabi",
+      "Riyadh",
+      "Jeddah"
+    ],
+    "correct": 2,
+    "explanation": "Riyadh is the capital city of Saudi Arabia."
+  },
+  {
+    "id": 32,
+    "question": "The New Development Bank is the financial institution of which international group?",
+    "options": [
+      "G20",
+      "ASEAN",
+      "BRICS",
+      "SAARC"
+    ],
+    "correct": 2,
+    "explanation": "The New Development Bank, with its headquarters in Shanghai, is the bank of the BRICS countries."
+  },
+  {
+    "id": 33,
+    "question": "Which is the largest country by area?",
+    "options": [
+      "Canada",
+      "China",
+      "USA",
+      "Russia"
+    ],
+    "correct": 3,
+    "explanation": "Russia is the largest country in the world by land area."
+  },
+  {
+    "id": 34,
+    "question": "The deepest ocean trench in the world is the:",
+    "options": [
+      "Java Trench",
+      "Puerto Rico Trench",
+      "Mariana Trench",
+      "Tonga Trench"
+    ],
+    "correct": 2,
+    "explanation": "The Mariana Trench, located in the Pacific Ocean, is the deepest oceanic trench."
+  },
+  {
+    "id": 35,
+    "question": "Which country was the first to grant women the right to vote?",
+    "options": [
+      "USA",
+      "UK",
+      "Australia",
+      "New Zealand"
+    ],
+    "correct": 3,
+    "explanation": "New Zealand was the first country to grant women the right to vote in 1893."
+  },
+  {
+    "id": 36,
+    "question": "The headquarters of Interpol are located in:",
+    "options": [
+      "Vienna, Austria",
+      "Lyon, France",
+      "The Hague, Netherlands",
+      "Cologny, Switzerland"
+    ],
+    "correct": 1,
+    "explanation": "Interpol (International Criminal Police Organization) has its headquarters in Lyon, France."
+  },
+  {
+    "id": 37,
+    "question": "Which is the smallest country by area?",
+    "options": [
+      "Monaco",
+      "Nauru",
+      "Vatican City",
+      "San Marino"
+    ],
+    "correct": 2,
+    "explanation": "Vatican City is the smallest independent state in the world by both area and population."
+  },
+  {
+    "id": 38,
+    "question": "The currency with the highest value is the:",
+    "options": [
+      "US Dollar",
+      "Euro",
+      "Kuwaiti Dinar",
+      "British Pound"
+    ],
+    "correct": 2,
+    "explanation": "The Kuwaiti Dinar holds the highest value of any currency in the world."
+  },
+  {
+    "id": 39,
+    "question": "The capital of Nepal is:",
+    "options": [
+      "Thimphu",
+      "Kathmandu",
+      "Dhaka",
+      "Colombo"
+    ],
+    "correct": 1,
+    "explanation": "Kathmandu is the capital city of Nepal."
+  },
+  {
+    "id": 40,
+    "question": "Who founded the Maurya Empire?",
+    "options": [
+      "Bindusara",
+      "Ashoka",
+      "Dhanananda",
+      "Chandragupta Maurya"
+    ],
+    "correct": 3,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE after defeating the Nanda dynasty."
+  },
+  {
+    "id": 41,
+    "question": "Which Maurya ruler was referred to as 'Amitrochates' by Greek accounts?",
+    "options": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
+    ],
+    "correct": 1,
+    "explanation": "Bindusara, the son of Chandragupta, was known to the Greeks as 'Amitrochates' which means 'destroyer of foes'."
+  },
+  {
+    "id": 42,
+    "question": "Who was the founder of the Gupta dynasty?",
+    "options": [
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Sri Gupta",
+      "Samudragupta"
+    ],
+    "correct": 2,
+    "explanation": "Sri Gupta was the founder of the Gupta dynasty and held the title of Maharaja."
+  },
+  {
+    "id": 43,
+    "question": "Which Gupta ruler is considered the 'real founder' of the empire, who also started the Gupta Era?",
+    "options": [
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Samudragupta"
+    ],
+    "correct": 2,
+    "explanation": "Chandragupta I is considered the real founder of the Gupta Empire and initiated the Gupta Era in 319-320 CE."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following scholars from the Gupta period introduced the concept of zero and proposed that Earth rotates on its axis?",
+    "options": [
+      "Kalidasa",
+      "Varahamihira",
+      "Aryabhata",
+      "Amarasimha"
+    ],
+    "correct": 2,
+    "explanation": "Aryabhata was a great mathematician and astronomer who made significant contributions during the Gupta period, including the concept of zero and pi."
+  },
+  {
+    "id": 45,
+    "question": "The famous Chinese pilgrim Fa-Hien visited the court of which Gupta emperor?",
+    "options": [
+      "Samudragupta",
+      "Chandragupta I",
+      "Chandragupta II",
+      "Kumaragupta I"
+    ],
+    "correct": 2,
+    "explanation": "Fa-Hien, a Chinese Buddhist monk, visited India during the reign of Chandragupta II (Vikramaditya)."
+  },
+  {
+    "id": 46,
+    "question": "The Barabar Caves, the earliest rock-cut caves, were donated by Ashoka to which religious sect?",
+    "options": [
+      "Buddhists",
+      "Jainists",
+      "Ajivikas",
+      "Shaivites"
+    ],
+    "correct": 2,
+    "explanation": "Ashoka donated the Barabar Caves in Bihar to the ascetics of the Ajivika sect."
+  },
+  {
+    "id": 47,
+    "question": "Who was the last Mauryan ruler, who was killed by Pushyamitra Shunga?",
+    "options": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
+    ],
+    "correct": 3,
+    "explanation": "Brihadratha was the last ruler of the Mauryan dynasty and was killed by his commander-in-chief, Pushyamitra Shunga."
+  },
+  {
+    "id": 48,
+    "question": "Who was the author of 'Brihat Samhita', a work covering astronomy and astrology during the Gupta period?",
+    "options": [
+      "Aryabhata",
+      "Varahamihira",
+      "Kalidasa",
+      "Vagbhata"
+    ],
+    "correct": 1,
+    "explanation": "Varahamihira was an astronomer and polymath who authored 'Brihat Samhita' during the Gupta era."
+  },
+  {
+    "id": 49,
+    "question": "Which scheme is focused on providing free skill training, placement support, and a stipend to rural youth from poor households?",
+    "options": [
+      "Skill India / PMKVY",
+      "Digital India Mission",
+      "DDU-GKY",
+      "Startup India"
+    ],
+    "correct": 2,
+    "explanation": "The Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) focuses on skilling and placing rural youth aged 15-35."
   }
 ]
