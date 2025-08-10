@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz for Paru</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.7.77/Tone.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f9fafb;
+        }
+        .quiz-container {
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+        .option-btn {
+            border-width: 2px;
+            border-color: #e5e7eb; 
+            transition: all 0.3s ease;
+        }
+        .option-btn:hover:not(:disabled) {
+            border-color: #fbbf24;
+            background-color: #fefce8;
+        }
+        .option-btn:disabled { cursor: not-allowed; }
+        .correct-answer {
+            background-color: #dcfce7 !important;
+            border-color: #4ade80 !important;
+            color: #166534;
+        }
+        .wrong-answer {
+            background-color: #fee2e2 !important;
+            border-color: #f87171 !important;
+            color: #991b1b;
+        }
+        #confetti-canvas {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 100;
+        }
+        .sunflower-animation { animation: growAndShine 1s ease-in-out; }
+        @keyframes growAndShine {
+            0% { transform: scale(0.5) rotate(-15deg); opacity: 0; }
+            50% { transform: scale(1.1) rotate(10deg); opacity: 1; filter: drop-shadow(0 0 5px #FBBF24); }
+            100% { transform: scale(1) rotate(0deg); opacity: 1; filter: drop-shadow(0 0 15px #FBBF24); }
+        }
+        .correct-feedback-glow { animation: glow-effect 1s ease-in-out; }
+        @keyframes glow-effect {
+            0% { box-shadow: 0 0 0 rgba(74, 222, 128, 0); transform: scale(1); }
+            50% { box-shadow: 0 0 25px rgba(74, 222, 128, 0.5); transform: scale(1.03); }
+            100% { box-shadow: 0 0 0 rgba(74, 222, 128, 0); transform: scale(1); }
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen p-4">
+    <canvas id="confetti-canvas"></canvas>
+    <div id="quiz-container" class="w-full max-w-2xl mx-auto p-6 sm:p-8 bg-white rounded-2xl border border-gray-200 transition-all duration-500">
+        <div id="quiz-content">
+            <div class="flex justify-between items-center mb-4">
+                 <h1 id="quiz-title" class="text-2xl font-bold text-gray-800">A Quiz for Paru</h1>
+                 <div id="score" class="text-lg font-semibold text-gray-600">Score: 0</div>
+            </div>
+            <div id="progress-bar-container" class="w-full bg-gray-200 rounded-full h-2.5 mb-6">
+                <div id="progress-bar" class="bg-yellow-400 h-2.5 rounded-full transition-all duration-500" style="width: 0%"></div>
+            </div>
+            <h2 id="question" class="text-xl sm:text-2xl font-semibold text-gray-800 mb-6 min-h-[6rem]">Loading questions...</h2>
+            <div id="options-container" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+        </div>
+        <div id="feedback-container" class="hidden mt-6 text-center"></div>
+    </div>
+
+    <script>
+        // --- Global variables ---
+        let originalQuizData = [];
+        let currentQuizSet = [];
+        let failedQuestions = new Map();
+        let isReattemptMode = false;
+        
+        const correctMessages = ["Awesome, Paru!", "You nailed it, Paru!", "Perfect! Paru, you're a star! ✨", "Brilliant, Paru!", "Woohoo! That's the way to do it, Paru!"];
+        const incorrectMessages = ["Not quite this time.", "So close!", "Good try!", "That wasn't it, but don't worry!"];
+
+        const questionEl = document.getElementById('question');
+        const optionsContainer = document.getElementById('options-container');
+        const feedbackContainer = document.getElementById('feedback-container');
+        const scoreEl = document.getElementById('score');
+        const progressBar = document.getElementById('progress-bar');
+        const quizTitle = document.getElementById('quiz-title');
+        const confettiCanvas = document.getElementById('confetti-canvas');
+        const confettiCtx = confettiCanvas.getContext('2d');
+
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let soundEnabled = false;
+        let synth;
+
+        // --- Sound and Animation Logic (no changes here) ---
+        document.body.addEventListener('click', () => { if (!soundEnabled) { Tone.start(); synth = new Tone.PolySynth(Tone.Synth).toDestination(); soundEnabled = true; } }, { once: true });
+        function playCorrectSound() { if (!soundEnabled) return; const now = Tone.now(); synth.triggerAttackRelease(["C4", "E4", "G4"], "8n", now); synth.triggerAttackRelease(["E4", "G4", "B4"], "8n", now + 0.2); }
+
+        let confettiParticles = [];
+        const confettiColors = ['#FBBF24', '#F59E0B', '#FEF3C7', '#ffffff'];
+        function launchConfetti() {
+            confettiCanvas.width = window.innerWidth; confettiCanvas.height = window.innerHeight;
+            confettiParticles = [];
+            for (let i = 0; i < 150; i++) { confettiParticles.push({ x: confettiCanvas.width / 2, y: confettiCanvas.height / 2, size: Math.random() * 5 + 2, speed: Math.random() * 5 + 2, angle: Math.random() * Math.PI * 2, color: confettiColors[Math.floor(Math.random() * confettiColors.length)], opacity: 1, spin: Math.random() * 10 - 5 }); }
+            animateConfetti();
+        }
+        function animateConfetti() {
+            confettiCtx.clearRect(0, 0, confettiCanvas.width, confettiCanvas.height);
+            if (confettiParticles.length === 0) return;
+            confettiParticles.forEach((p, i) => {
+                p.x += Math.cos(p.angle) * p.speed; p.y += Math.sin(p.angle) * p.speed + 1; p.opacity -= 0.01; p.angle += p.spin * 0.01;
+                if (p.opacity <= 0) { confettiParticles.splice(i, 1); } else { confettiCtx.globalAlpha = p.opacity; confettiCtx.fillStyle = p.color; confettiCtx.beginPath(); confettiCtx.fillRect(p.x, p.y, p.size, p.size * 2); confettiCtx.closePath(); confettiCtx.globalAlpha = 1; }
+            });
+            requestAnimationFrame(animateConfetti);
+        }
+
+        // --- Core Quiz Logic ---
+        function startQuiz() {
+            isReattemptMode = false;
+            currentQuizSet = [...originalQuizData];
+            failedQuestions.clear();
+            currentQuestionIndex = 0;
+            score = 0;
+            quizTitle.textContent = "A Quiz for Paru";
+            scoreEl.textContent = `Score: ${score}`;
+            feedbackContainer.innerHTML = '';
+            feedbackContainer.classList.add('hidden');
+            document.getElementById('quiz-content').classList.remove('hidden');
+            loadQuestion();
+        }
+
+        function startReattempt() {
+            isReattemptMode = true;
+            currentQuizSet = Array.from(failedQuestions.values());
+            failedQuestions.clear();
+            currentQuestionIndex = 0;
+            quizTitle.textContent = "Let's Improve!";
+            feedbackContainer.innerHTML = '';
+            feedbackContainer.classList.add('hidden');
+            document.getElementById('quiz-content').classList.remove('hidden');
+            loadQuestion();
+        }
+
+        function loadQuestion() {
+            if (currentQuestionIndex >= currentQuizSet.length) {
+                showEndScreen();
+                return;
+            }
+
+            feedbackContainer.classList.add('hidden');
+            optionsContainer.classList.remove('hidden');
+            const currentQuestion = currentQuizSet[currentQuestionIndex];
+            questionEl.textContent = currentQuestion.question;
+            optionsContainer.innerHTML = '';
+            currentQuestion.options.forEach((option, index) => {
+                const button = document.createElement('button');
+                button.textContent = option;
+                button.classList.add('option-btn', 'w-full', 'p-4', 'text-left', 'bg-white', 'border-2', 'border-gray-300', 'rounded-lg', 'focus:outline-none', 'font-medium', 'text-gray-700');
+                button.onclick = () => selectAnswer(index);
+                optionsContainer.appendChild(button);
+            });
+            
+            const totalQuestions = originalQuizData.length;
+            const questionsAnswered = score + failedQuestions.size;
+            const progress = (questionsAnswered / totalQuestions) * 100;
+            progressBar.style.width = `${progress}%`;
+        }
+
+        function selectAnswer(selectedIndex) {
+            const currentQuestion = currentQuizSet[currentQuestionIndex];
+            const optionButtons = optionsContainer.querySelectorAll('.option-btn');
+            optionButtons.forEach(btn => btn.disabled = true);
+
+            if (selectedIndex === currentQuestion.correct) {
+                if (isReattemptMode) {
+                    score++;
+                } else {
+                    score++;
+                }
+                optionButtons[selectedIndex].classList.add('correct-answer');
+                showCorrectFeedback();
+                playCorrectSound();
+                launchConfetti();
+            } else {
+                optionButtons[selectedIndex].classList.add('wrong-answer');
+                optionButtons[currentQuestion.correct].classList.add('correct-answer');
+                failedQuestions.set(currentQuestion.id, currentQuestion);
+                showIncorrectFeedback(currentQuestion);
+            }
+            scoreEl.textContent = `Score: ${score}`;
+        }
+
+        function showCorrectFeedback() {
+            feedbackContainer.classList.remove('hidden');
+            const message = correctMessages[Math.floor(Math.random() * correctMessages.length)];
+            feedbackContainer.innerHTML = `
+                <div class="flex flex-col items-center justify-center p-4 rounded-lg bg-green-50 correct-feedback-glow">
+                    <div class="text-6xl sunflower-animation" style="filter: drop-shadow(0 0 15px #FBBF24);">🌻</div>
+                    <h3 class="text-2xl font-bold text-green-800 mt-4">${message}</h3>
+                    <p class="text-lg text-red-500 mt-2">❤️ from Nandu</p>
+                    <button onclick="nextQuestion()" class="mt-6 bg-yellow-400 text-yellow-900 font-bold py-2 px-6 rounded-lg hover:bg-yellow-500 transition-colors">Next Question</button>
+                </div>
+            `;
+        }
+        
+        function showIncorrectFeedback(question) {
+            feedbackContainer.classList.remove('hidden');
+            const message = incorrectMessages[Math.floor(Math.random() * incorrectMessages.length)];
+            feedbackContainer.innerHTML = `
+                <div class="p-4 rounded-lg bg-red-50">
+                    <h3 class="text-2xl font-bold text-red-800">${message}</h3>
+                    <p class="text-md text-red-700 mt-2">The correct answer was: <strong class="font-semibold">${question.options[question.correct]}</strong></p>
+                    <p class="text-md text-gray-600 mt-3 bg-gray-100 p-3 rounded-md">${question.explanation}</p>
+                    <button id="next-q-btn" disabled class="mt-6 bg-gray-400 text-white font-bold py-2 px-6 rounded-lg cursor-not-allowed transition-colors">Next Question (5s)</button>
+                </div>
+            `;
+
+            const nextBtn = document.getElementById('next-q-btn');
+            let countdown = 5;
+            const interval = setInterval(() => {
+                countdown--;
+                nextBtn.textContent = `Next Question (${countdown}s)`;
+                if (countdown <= 0) {
+                    clearInterval(interval);
+                    nextBtn.textContent = 'Next Question';
+                    nextBtn.disabled = false;
+                    nextBtn.classList.remove('bg-gray-400', 'cursor-not-allowed');
+                    nextBtn.classList.add('bg-yellow-400', 'text-yellow-900', 'hover:bg-yellow-500');
+                    nextBtn.onclick = nextQuestion;
+                }
+            }, 1000);
+        }
+        
+        function nextQuestion() {
+            currentQuestionIndex++;
+            loadQuestion();
+        }
+
+        function showEndScreen() {
+            progressBar.style.width = `100%`;
+            document.getElementById('quiz-content').classList.add('hidden');
+            feedbackContainer.classList.remove('hidden');
+
+            const totalQuestions = originalQuizData.length;
+            const isPerfect = (score === totalQuestions);
+
+            let heading, message, buttonsHTML;
+
+            if (isPerfect) {
+                heading = "🏆 Perfect Score!";
+                message = "You got everything right! Amazing job, Paru!";
+                buttonsHTML = `<button onclick="startQuiz()" class="w-full max-w-xs bg-yellow-400 text-yellow-900 font-bold py-3 px-8 rounded-lg hover:bg-yellow-500 transition-colors text-lg">Play Again</button>`;
+                launchConfetti();
+            } else {
+                heading = isReattemptMode ? "Re-attempt Complete!" : "Round Complete!";
+                message = `You still have ${failedQuestions.size} question(s) to correct.`;
+                buttonsHTML = `
+                    <button onclick="startReattempt()" class="w-full max-w-xs bg-green-500 text-white font-bold py-3 px-8 rounded-lg hover:bg-green-600 transition-colors text-lg">Try Again (${failedQuestions.size} left)</button>
+                    <button onclick="startQuiz()" class="w-full max-w-xs bg-yellow-400 text-yellow-900 font-bold py-3 px-8 rounded-lg hover:bg-yellow-500 transition-colors text-lg">Start Over</button>
+                `;
+            }
+
+            feedbackContainer.innerHTML = `
+                <div class="p-6">
+                    <h2 class="text-3xl font-bold text-gray-800">${heading}</h2>
+                    <p class="text-xl text-gray-700 mt-4">Your current score is:</p>
+                    <p class="text-5xl font-bold text-yellow-500 my-4">${score} / ${totalQuestions}</p>
+                    <p class="text-lg text-gray-600">${message}</p>
+                    ${isPerfect ? `<p class="text-2xl text-red-500 mt-4">❤️ from Nandu</p>` : ''}
+                    <div class="flex flex-col items-center mt-8 space-y-4">
+                        ${buttonsHTML}
+                    </div>
+                </div>
+            `;
+        }
+
+        // --- Data Loading ---
+        async function loadQuizData() {
+            try {
+                const response = await fetch('questions.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                originalQuizData = await response.json();
+                // Once data is loaded, start the quiz
+                startQuiz();
+            } catch (error) {
+                questionEl.textContent = 'Failed to load questions. Please make sure questions.json is in the same folder and is formatted correctly.';
+                console.error('Error fetching quiz data:', error);
+            }
+        }
+
+        // --- Initial Load ---
+        window.onload = loadQuizData;
+    </script>
+</body>
+</html>
+
