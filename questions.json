@@ -1,542 +1,602 @@
 [
   {
-    "id": 1,
-    "question": "In which Indian state is the Brihadeshwara Temple located?",
+    "id": 0,
+    "question": "Which of these temples is known for its intricate Hoysala architecture?",
     "options": [
-      "Tamil Nadu",
-      "Odisha",
-      "Karnataka",
-      "Madhya Pradesh"
+      "Chennakeshava Temple",
+      "Konark Sun Temple",
+      "Ranakpur Jain Temple",
+      "Khajuraho Temples"
     ],
     "correct": 0,
-    "explanation": "The Brihadeshwara Temple is located in Thanjavur, Tamil Nadu, and is part of the 'Great Living Chola Temples' UNESCO site."
+    "explanation": "The Chennakeshava Temple in Belur, Karnataka, is a prime example of Hoysala architecture, famous for its detailed sculptures."
+  },
+  {
+    "id": 1,
+    "question": "The Shore Temple is located in which ancient city of Tamil Nadu?",
+    "options": [
+      "Mahabalipuram",
+      "Kanchipuram",
+      "Madurai",
+      "Thanjavur"
+    ],
+    "correct": 0,
+    "explanation": "The Shore Temple, a UNESCO World Heritage site, is located in Mahabalipuram, also known as Mamallapuram, and was built under the Pallava dynasty."
   },
   {
     "id": 2,
-    "question": "Brihadeshwara Temple in Thanjavur was built during the reign of which dynasty?",
+    "question": "Which temple complex in Odisha is famous for its 'Sun Temple'?",
     "options": [
-      "Chola",
-      "Pallava",
-      "Vijayanagara",
-      "Maurya"
+      "Konark",
+      "Lingaraja",
+      "Jagannath",
+      "Mukteshwar"
     ],
     "correct": 0,
-    "explanation": "Constructed by Raja Raja Chola I in the early 11th century, it is a masterpiece of Chola architecture."
+    "explanation": "The Konark Sun Temple, built in the shape of a colossal chariot, is one of the most famous temples in Odisha."
   },
   {
     "id": 3,
-    "question": "Gangaikonda Cholapuram Temple is located in which district of Tamil Nadu?",
+    "question": "The Golden Temple, a major Sikh shrine, is situated in which city?",
     "options": [
-      "Ariyalur",
-      "Thanjavur",
-      "Kancheepuram",
-      "Madurai"
+      "Amritsar",
+      "Patna",
+      "Varanasi",
+      "New Delhi"
     ],
     "correct": 0,
-    "explanation": "This temple, part of the 'Great Living Chola Temples', is situated in Ariyalur district."
+    "explanation": "Harmandir Sahib, popularly known as the Golden Temple, is located in Amritsar, Punjab."
   },
   {
     "id": 4,
-    "question": "The Airavatesvara Temple, a UNESCO site, is located in which Tamil Nadu town?",
+    "question": "In which state would you find the Meenakshi Amman Temple?",
     "options": [
-      "Darasuram",
-      "Kancheepuram",
-      "Rameswaram",
-      "Chidambaram"
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Kerala",
+      "Telangana"
     ],
     "correct": 0,
-    "explanation": "The Airavatesvara Temple in Darasuram is famed for its intricate stone carvings."
+    "explanation": "The Meenakshi Amman Temple, with its towering gopurams, is a historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai, Tamil Nadu."
   },
   {
     "id": 5,
-    "question": "The Group of Monuments at Mahabalipuram is located in which district of Tamil Nadu?",
+    "question": "Which ancient city is home to the Group of Monuments at Hampi?",
     "options": [
-      "Kancheepuram",
-      "Chennai",
-      "Thanjavur",
-      "Ariyalur"
+      "Vijayanagara",
+      "Mysuru",
+      "Badami",
+      "Aihole"
     ],
     "correct": 0,
-    "explanation": "Mahabalipuram is renowned for its rock-cut and structural temples built by the Pallavas."
+    "explanation": "Hampi was the capital of the Vijayanagara Empire and is a UNESCO World Heritage Site with numerous temples and monuments."
   },
   {
     "id": 6,
-    "question": "Which Pallava ruler is credited with commissioning the Shore Temple at Mahabalipuram?",
+    "question": "The Group of Monuments at Khajuraho is famous for its intricate carvings. In which state is it located?",
     "options": [
-      "Narasimhavarman II",
-      "Mahendravarman I",
-      "Raja Raja Chola I",
-      "Krishnadevaraya"
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Gujarat"
     ],
     "correct": 0,
-    "explanation": "The Shore Temple was built under Pallava king Narasimhavarman II Rajasimha."
+    "explanation": "The Khajuraho Group of Monuments, a UNESCO World Heritage Site, is a group of Hindu and Jain temples located in Madhya Pradesh."
   },
   {
     "id": 7,
-    "question": "Which UNESCO World Heritage temple in Odisha is famous for its chariot-shaped architecture?",
+    "question": "Which of these temples is dedicated to Lord Shiva and is one of the 12 Jyotirlingas?",
     "options": [
-      "Sun Temple",
+      "Somnath Temple",
       "Jagannath Temple",
-      "Lingaraj Temple",
-      "Mukteshwar Temple"
-    ],
-    "correct": 0,
-    "explanation": "The Sun Temple at Konark is designed like a colossal chariot with stone wheels and horses."
-  },
-  {
-    "id": 8,
-    "question": "The Sun Temple at Konark was built during the reign of which ruler?",
-    "options": [
-      "Narasimha Deva I",
-      "Ashoka",
-      "Raja Raja Chola I",
-      "Krishnadevaraya"
-    ],
-    "correct": 0,
-    "explanation": "The Eastern Ganga ruler Narasimha Deva I built the Sun Temple in the 13th century."
-  },
-  {
-    "id": 9,
-    "question": "In which district of Madhya Pradesh are the Khajuraho Group of Monuments located?",
-    "options": [
-      "Chhatarpur",
-      "Bhopal",
-      "Gwalior",
-      "Jabalpur"
-    ],
-    "correct": 0,
-    "explanation": "Khajuraho is in Chhatarpur district and is known for its Nagara-style temples."
-  },
-  {
-    "id": 10,
-    "question": "Which dynasty built most of the temples at Khajuraho?",
-    "options": [
-      "Chandela",
-      "Chola",
-      "Pallava",
-      "Maurya"
-    ],
-    "correct": 0,
-    "explanation": "The Chandela rulers constructed these temples between the 9th and 11th centuries."
-  },
-  {
-    "id": 11,
-    "question": "Which UNESCO site in Karnataka was once the capital of the Vijayanagara Empire?",
-    "options": [
-      "Hampi",
-      "Pattadakal",
-      "Badami",
-      "Belur"
-    ],
-    "correct": 0,
-    "explanation": "Hampi, in Ballari district, was the splendid capital of the Vijayanagara Empire."
-  },
-  {
-    "id": 12,
-    "question": "The Group of Monuments at Pattadakal is located in which district of Karnataka?",
-    "options": [
-      "Bagalkot",
-      "Ballari",
-      "Bengaluru",
-      "Dharwad"
-    ],
-    "correct": 0,
-    "explanation": "Pattadakal showcases a unique blend of northern and southern Indian temple architecture."
-  },
-  {
-    "id": 13,
-    "question": "Pattadakal is famous for temples built under which dynasty?",
-    "options": [
-      "Chalukya",
-      "Chola",
-      "Pallava",
-      "Gupta"
-    ],
-    "correct": 0,
-    "explanation": "The Early Chalukyas of Badami built the temples at Pattadakal in the 7th and 8th centuries."
-  },
-  {
-    "id": 14,
-    "question": "The Kailasa Temple is part of which UNESCO World Heritage site?",
-    "options": [
-      "Ellora Caves",
-      "Ajanta Caves",
-      "Elephanta Caves",
-      "Hampi"
-    ],
-    "correct": 0,
-    "explanation": "The Kailasa Temple at Ellora is the world's largest monolithic rock-cut temple."
-  },
-  {
-    "id": 15,
-    "question": "Ellora Caves are located in which district of Maharashtra?",
-    "options": [
-      "Aurangabad",
-      "Nagpur",
-      "Pune",
-      "Satara"
-    ],
-    "correct": 0,
-    "explanation": "Ellora is in Aurangabad district and includes Buddhist, Hindu, and Jain monuments."
-  },
-  {
-    "id": 16,
-    "question": "The Elephanta Caves are located in which harbour?",
-    "options": [
-      "Mumbai Harbour",
-      "Kochi Harbour",
-      "Visakhapatnam Harbour",
-      "Chennai Harbour"
-    ],
-    "correct": 0,
-    "explanation": "Elephanta Island, housing the caves, lies in Mumbai Harbour."
-  },
-  {
-    "id": 17,
-    "question": "The Mahabodhi Temple in Bihar is associated with which religion?",
-    "options": [
-      "Buddhism",
-      "Hinduism",
-      "Jainism",
-      "Sikhism"
-    ],
-    "correct": 0,
-    "explanation": "The Mahabodhi Temple marks the site where Buddha attained enlightenment."
-  },
-  {
-    "id": 18,
-    "question": "The Mahabodhi Temple is located in which town of Bihar?",
-    "options": [
-      "Bodh Gaya",
-      "Patna",
-      "Nalanda",
-      "Rajgir"
-    ],
-    "correct": 0,
-    "explanation": "Bodh Gaya is one of the most important pilgrimage sites for Buddhists."
-  },
-  {
-    "id": 19,
-    "question": "The Ramappa Temple is also known by what other name?",
-    "options": [
-      "Rudreshwara Temple",
-      "Rajeshwara Temple",
-      "Virupaksha Temple",
-      "Somnath Temple"
-    ],
-    "correct": 0,
-    "explanation": "The Ramappa Temple in Telangana is officially named the Rudreshwara Temple."
-  },
-  {
-    "id": 20,
-    "question": "In which district of Telangana is the Ramappa Temple located?",
-    "options": [
-      "Mulugu",
-      "Hyderabad",
-      "Warangal",
-      "Nizamabad"
-    ],
-    "correct": 0,
-    "explanation": "The temple is situated in Palampet village, Mulugu district."
-  },
-  {
-    "id": 21,
-    "question": "Which Chola king built the Gangaikonda Cholapuram Temple?",
-    "options": [
-      "Rajaraja Chola I",
-      "Rajendra Chola I",
-      "Kulothunga Chola I",
-      "Vikrama Chola"
-    ],
-    "correct": 1,
-    "explanation": "Rajendra Chola I constructed the temple after his victory over the Pala dynasty."
-  },
-  {
-    "id": 22,
-    "question": "Which architectural style is seen in Khajuraho temples?",
-    "options": [
-      "Nagara",
-      "Dravida",
-      "Vesara",
-      "Kalinga"
-    ],
-    "correct": 0,
-    "explanation": "Khajuraho temples are prime examples of Nagara-style architecture of North India."
-  },
-  {
-    "id": 23,
-    "question": "Which temple in Tamil Nadu is famous for its 216-feet tall Vimana?",
-    "options": [
-      "Brihadeshwara Temple",
-      "Meenakshi Temple",
-      "Ramanathaswamy Temple",
-      "Kailasanathar Temple"
-    ],
-    "correct": 0,
-    "explanation": "The Brihadeshwara Temple's towering Vimana is among the tallest of its kind."
-  },
-  {
-    "id": 24,
-    "question": "The UNESCO site Hampi is situated on the banks of which river?",
-    "options": [
-      "Tungabhadra",
-      "Krishna",
-      "Godavari",
-      "Kaveri"
-    ],
-    "correct": 0,
-    "explanation": "Hampi lies along the Tungabhadra River in Karnataka."
-  },
-  {
-    "id": 25,
-    "question": "The Ellora Caves contain monuments of how many different religions?",
-    "options": [
-      "Three",
-      "Two",
-      "Four",
-      "One"
-    ],
-    "correct": 0,
-    "explanation": "They house Buddhist, Hindu, and Jain monuments built between the 6th and 10th centuries."
-  },
-  {
-    "id": 26,
-    "question": "Which temple at Pattadakal is dedicated to Lord Shiva and is the largest there?",
-    "options": [
-      "Virupaksha Temple",
-      "Mallikarjuna Temple",
-      "Papanatha Temple",
-      "Jambulinga Temple"
-    ],
-    "correct": 0,
-    "explanation": "The Virupaksha Temple was built by Queen Lokamahadevi to commemorate her husband's victory."
-  },
-  {
-    "id": 27,
-    "question": "The Mahabodhi Temple was inscribed as a UNESCO World Heritage Site in which year?",
-    "options": [
-      "2002",
-      "1987",
-      "1993",
-      "2014"
-    ],
-    "correct": 0,
-    "explanation": "It was added to the UNESCO list in 2002 for its cultural significance."
-  },
-  {
-    "id": 28,
-    "question": "The Ramappa Temple was added to the UNESCO list in which year?",
-    "options": [
-      "2021",
-      "2019",
-      "2016",
-      "2014"
-    ],
-    "correct": 0,
-    "explanation": "Ramappa Temple became a UNESCO World Heritage Site in July 2021."
-  },
-  {
-    "id": 29,
-    "question": "Which Odisha temple is also known as the 'Black Pagoda'?",
-    "options": [
-      "Sun Temple",
-      "Jagannath Temple",
-      "Lingaraj Temple",
-      "Mukteshwar Temple"
-    ],
-    "correct": 0,
-    "explanation": "The Sun Temple at Konark earned the name due to its dark colour and pagoda-like structure."
-  },
-  {
-    "id": 30,
-    "question": "Which is the only UNESCO World Heritage Temple site in Bihar?",
-    "options": [
-      "Mahabodhi Temple",
-      "Vishnupad Temple",
-      "Mundeshwari Temple",
-      "Nalanda Stupa"
-    ],
-    "correct": 0,
-    "explanation": "The Mahabodhi Temple in Bodh Gaya is Bihar's only UNESCO-listed temple."
-  },
-  {
-    "id": 31,
-    "question": "The Kailasa Temple at Ellora was commissioned by which ruler?",
-    "options": [
-      "Krishna I",
-      "Rashtrakuta Dantidurga",
-      "Pulakeshin II",
-      "Harshavardhana"
-    ],
-    "correct": 0,
-    "explanation": "Rashtrakuta king Krishna I commissioned the Kailasa Temple in the 8th century."
-  },
-  {
-    "id": 32,
-    "question": "Mahabalipuram monuments were inscribed as a UNESCO site in which year?",
-    "options": [
-      "1984",
-      "1990",
-      "2004",
-      "2010"
-    ],
-    "correct": 0,
-    "explanation": "They were among the first Indian sites to be inscribed in 1984."
-  },
-  {
-    "id": 33,
-    "question": "Which dynasty is associated with Hampi's Virupaksha Temple?",
-    "options": [
-      "Vijayanagara",
-      "Chalukya",
-      "Hoysala",
-      "Rashtrakuta"
-    ],
-    "correct": 0,
-    "explanation": "The Virupaksha Temple has been in use since the Vijayanagara period."
-  },
-  {
-    "id": 34,
-    "question": "The Sun Temple at Konark is aligned in which direction?",
-    "options": [
-      "East",
-      "West",
-      "North",
-      "South"
-    ],
-    "correct": 0,
-    "explanation": "It faces east so that the first rays of the sun strike its entrance."
-  },
-  {
-    "id": 35,
-    "question": "The Brihadeshwara Temple is also known by what name?",
-    "options": [
-      "Peruvudaiyar Kovil",
-      "Airavatesvara Kovil",
-      "Gangaikonda Kovil",
+      "Tirupati Balaji",
       "Meenakshi Amman Temple"
     ],
     "correct": 0,
-    "explanation": "Locally, it is called Peruvudaiyar Kovil, meaning 'Big Temple'."
+    "explanation": "The Somnath Temple in Gujarat is one of the most revered Jyotirlinga shrines of Lord Shiva."
+  },
+  {
+    "id": 8,
+    "question": "The Ranakpur Jain Temple is particularly known for its what?",
+    "options": [
+      "1444 intricately carved pillars",
+      "Massive monolithic statue",
+      "Towering gopurams",
+      "Carvings of sun chariots"
+    ],
+    "correct": 0,
+    "explanation": "The Ranakpur Jain Temple in Rajasthan is renowned for its 1444 pillars, none of which are alike."
+  },
+  {
+    "id": 9,
+    "question": "The Virupaksha Temple is located in which of these famous sites?",
+    "options": [
+      "Hampi",
+      "Khajuraho",
+      "Bodh Gaya",
+      "Konark"
+    ],
+    "correct": 0,
+    "explanation": "The Virupaksha Temple is a famous temple in Hampi, Karnataka, dedicated to Lord Shiva."
+  },
+  {
+    "id": 10,
+    "question": "Which temple is located at the confluence of the Alaknanda and Bhagirathi rivers?",
+    "options": [
+      "Badrinath Temple",
+      "Kedarnath Temple",
+      "Gangotri Temple",
+      "Yamunotri Temple"
+    ],
+    "correct": 0,
+    "explanation": "Badrinath Temple is located near the confluence of the Alaknanda and Bhagirathi rivers, in Uttarakhand."
+  },
+  {
+    "id": 11,
+    "question": "The Mahabodhi Temple, a UNESCO site, is located in which state?",
+    "options": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "West Bengal"
+    ],
+    "correct": 0,
+    "explanation": "The Mahabodhi Temple in Bodh Gaya, Bihar, is a sacred Buddhist site where Siddhartha Gautama is said to have attained enlightenment."
+  },
+  {
+    "id": 12,
+    "question": "Which temple is located on the Tirumala hills and is a major pilgrimage center?",
+    "options": [
+      "Tirupati Balaji Temple",
+      "Sabarimala Temple",
+      "Shirdi Sai Baba Temple",
+      "Lingaraja Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Sri Venkateswara Swamy Temple, popularly known as Tirupati Balaji, is a prominent Vaishnavite temple located in Tirumala, Andhra Pradesh."
+  },
+  {
+    "id": 13,
+    "question": "In which state is the famous Akshardham Temple located?",
+    "options": [
+      "New Delhi",
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "correct": 0,
+    "explanation": "The Akshardham Temple, a sprawling complex, is located in New Delhi, and a similar one is also in Gandhinagar, Gujarat."
+  },
+  {
+    "id": 14,
+    "question": "Which of these is a famous cave temple complex known for its rock-cut architecture?",
+    "options": [
+      "Ajanta and Ellora Caves",
+      "Sun Temple, Konark",
+      "Meenakshi Temple",
+      "Mahabodhi Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Ajanta and Ellora Caves in Maharashtra are famous for their rock-cut Buddhist, Hindu, and Jain temples."
+  },
+  {
+    "id": 15,
+    "question": "The Jagannath Temple is a famous Hindu temple located in which city of Odisha?",
+    "options": [
+      "Puri",
+      "Bhubaneswar",
+      "Konark",
+      "Cuttack"
+    ],
+    "correct": 0,
+    "explanation": "The Jagannath Temple, dedicated to Lord Jagannath, is a significant pilgrimage site in Puri, Odisha."
+  },
+  {
+    "id": 16,
+    "question": "Which temple is believed to be the southernmost point of the Indian subcontinent?",
+    "options": [
+      "Vivekananda Rock Memorial",
+      "Kanyakumari Temple",
+      "Ramanathaswamy Temple",
+      "Suchindram Temple"
+    ],
+    "correct": 1,
+    "explanation": "The Bhagavathy Amman Temple, also known as the Kanyakumari Temple, is located at the southernmost tip of mainland India."
+  },
+  {
+    "id": 17,
+    "question": "The Lingaraja Temple is a magnificent example of Kalinga architecture and is located in which city?",
+    "options": [
+      "Bhubaneswar",
+      "Puri",
+      "Konark",
+      "Cuttack"
+    ],
+    "correct": 0,
+    "explanation": "The Lingaraja Temple, dedicated to Lord Shiva, is one of the oldest and largest temples in Bhubaneswar, Odisha."
+  },
+  {
+    "id": 18,
+    "question": "Which famous temple is located in the hilly region of Katra, Jammu & Kashmir?",
+    "options": [
+      "Vaishno Devi Temple",
+      "Amarnath Cave Temple",
+      "Raghunath Temple",
+      "Sun Temple, Martand"
+    ],
+    "correct": 0,
+    "explanation": "The Vaishno Devi Temple is a Hindu temple dedicated to the goddess Mahalakshmi, located in Katra, Jammu & Kashmir."
+  },
+  {
+    "id": 19,
+    "question": "The Ramanathaswamy Temple is situated on which island?",
+    "options": [
+      "Rameswaram",
+      "Dhanushkodi",
+      "Sriharikota",
+      "Lakshadweep"
+    ],
+    "correct": 0,
+    "explanation": "The Ramanathaswamy Temple is a Hindu temple dedicated to the god Shiva located on Rameswaram island in Tamil Nadu, India."
+  },
+  {
+    "id": 20,
+    "question": "Which of these temples is part of the 'Char Dham' pilgrimage circuit?",
+    "options": [
+      "Pashupatinath Temple",
+      "Badrinath Temple",
+      "Meenakshi Temple",
+      "Golden Temple"
+    ],
+    "correct": 1,
+    "explanation": "The Char Dham pilgrimage includes Badrinath, Dwarka, Puri, and Rameswaram. Pashupatinath is in Nepal."
+  },
+  {
+    "id": 21,
+    "question": "Which temple is associated with the annual Sabarimala pilgrimage?",
+    "options": [
+      "Ayyappan Temple",
+      "Guruvayur Temple",
+      "Padmanabhaswamy Temple",
+      "Sree Mookambika Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Sabarimala Ayyappan Temple in Kerala is a renowned pilgrimage center dedicated to Lord Ayyappan."
+  },
+  {
+    "id": 22,
+    "question": "The famous Gomateshwara statue is located in which state?",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Telangana"
+    ],
+    "correct": 0,
+    "explanation": "The Gomateshwara statue, a monolithic statue of Bahubali, is located at Shravanabelagola in Karnataka."
+  },
+  {
+    "id": 23,
+    "question": "The Sun Temple in Modhera, Gujarat, is known for its what?",
+    "options": [
+      "Stepwell and intricate carvings",
+      "Massive monolithic dome",
+      "Towering gopurams",
+      "Floating stones"
+    ],
+    "correct": 0,
+    "explanation": "The Modhera Sun Temple is a well-preserved Hindu temple complex with a beautiful stepwell, known as the 'Surya Kund', and intricate carvings."
+  },
+  {
+    "id": 24,
+    "question": "Which temple in Delhi is shaped like a lotus flower?",
+    "options": [
+      "Lotus Temple",
+      "Akshardham Temple",
+      "Laxminarayan Temple",
+      "Hanuman Temple, Connaught Place"
+    ],
+    "correct": 0,
+    "explanation": "The Lotus Temple is a Baháʼí House of Worship located in New Delhi, India. It is notable for its flowerlike shape."
+  },
+  {
+    "id": 25,
+    "question": "The Dilwara Temples are a group of Jain temples located in which state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "correct": 0,
+    "explanation": "The Dilwara Temples are located near Mount Abu, Rajasthan, and are famous for their stunning use of marble carvings."
+  },
+  {
+    "id": 26,
+    "question": "Which temple is located inside the Amer Fort complex in Rajasthan?",
+    "options": [
+      "Shila Devi Temple",
+      "Jagdish Temple",
+      "Birla Mandir",
+      "Pushkar Brahma Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Shila Devi Temple, a temple dedicated to the goddess Shila Devi, is located inside the Amer Fort near Jaipur."
+  },
+  {
+    "id": 27,
+    "question": "The Siddhivinayak Temple, dedicated to Lord Ganesha, is located in which city?",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "Nashik",
+      "Nagpur"
+    ],
+    "correct": 0,
+    "explanation": "The Siddhivinayak Temple is a famous Hindu temple located in Prabhadevi, Mumbai, Maharashtra."
+  },
+  {
+    "id": 28,
+    "question": "Which of these temples is part of the 'Panch Bhoota Stalam'?",
+    "options": [
+      "Jambukeswarar Temple",
+      "Kailasa Temple",
+      "Mahabalipuram Temple",
+      "Ramanathaswamy Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Jambukeswarar Temple in Tamil Nadu is one of the five major Shiva temples, each representing one of the five major elements of nature."
+  },
+  {
+    "id": 29,
+    "question": "The Sanchi Stupa, a Buddhist complex, is located in which state?",
+    "options": [
+      "Madhya Pradesh",
+      "Bihar",
+      "Uttar Pradesh",
+      "Maharashtra"
+    ],
+    "correct": 0,
+    "explanation": "The Sanchi Stupa, a UNESCO World Heritage Site, is located in Sanchi town in the Raisen District of Madhya Pradesh."
+  },
+  {
+    "id": 30,
+    "question": "The Badrinath Temple is located on the bank of which river?",
+    "options": [
+      "Alaknanda",
+      "Ganga",
+      "Yamuna",
+      "Bhagirathi"
+    ],
+    "correct": 0,
+    "explanation": "The Badrinath Temple is situated on the banks of the Alaknanda River in Uttarakhand."
+  },
+  {
+    "id": 31,
+    "question": "Which temple is famous for the annual Rath Yatra (chariot festival)?",
+    "options": [
+      "Jagannath Temple, Puri",
+      "Konark Sun Temple",
+      "Meenakshi Temple, Madurai",
+      "Kedarnath Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Rath Yatra is a major Hindu festival associated with the Jagannath Temple in Puri, Odisha."
+  },
+  {
+    "id": 32,
+    "question": "Which of these temples is carved out of a single rock?",
+    "options": [
+      "Kailasa Temple, Ellora",
+      "Konark Sun Temple",
+      "Ranakpur Jain Temple",
+      "Brihadeshwara Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Kailasa temple, located in the Ellora caves of Maharashtra, is a magnificent monolithic temple dedicated to Lord Shiva."
+  },
+  {
+    "id": 33,
+    "question": "The Dwarkadhish Temple is located in which city?",
+    "options": [
+      "Dwarka",
+      "Somnath",
+      "Ahmedabad",
+      "Porbandar"
+    ],
+    "correct": 0,
+    "explanation": "The Dwarkadhish Temple, dedicated to Lord Krishna, is a revered Hindu pilgrimage site in Dwarka, Gujarat."
+  },
+  {
+    "id": 34,
+    "question": "The Ujjain Mahakaleshwar Temple is dedicated to which deity?",
+    "options": [
+      "Lord Shiva",
+      "Lord Vishnu",
+      "Lord Brahma",
+      "Goddess Durga"
+    ],
+    "correct": 0,
+    "explanation": "The Mahakaleshwar Jyotirlinga is one of the 12 Jyotirlingas, shrines of Lord Shiva, located in Ujjain, Madhya Pradesh."
+  },
+  {
+    "id": 35,
+    "question": "Which temple complex in Karnataka is famous for its intricate star-shaped plan?",
+    "options": [
+      "Chennakeshava Temple, Belur",
+      "Virupaksha Temple, Hampi",
+      "Badami Cave Temples",
+      "Murdeshwar Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Chennakeshava Temple in Belur is known for its intricate Hoysala architecture and star-shaped ground plan."
   },
   {
     "id": 36,
-    "question": "Khajuraho temples are famous for which type of sculptures?",
+    "question": "Which of these temples is part of the 'Chota Char Dham' circuit in Uttarakhand?",
     "options": [
-      "Erotic sculptures",
-      "Floral patterns",
-      "Miniature paintings",
-      "Frescoes"
+      "Gangotri Temple",
+      "Badrinath Temple",
+      "Jagannath Temple",
+      "Somnath Temple"
     ],
     "correct": 0,
-    "explanation": "Some temples feature famous erotic sculptures, depicting aspects of life."
+    "explanation": "The Chota Char Dham circuit consists of four pilgrimage sites in Uttarakhand: Yamunotri, Gangotri, Kedarnath, and Badrinath."
   },
   {
     "id": 37,
-    "question": "Ellora Caves are a UNESCO World Heritage Site since which year?",
+    "question": "The Ranganathaswamy Temple is located in which island city?",
     "options": [
-      "1983",
-      "1990",
-      "2000",
-      "1987"
+      "Srirangam",
+      "Kanyakumari",
+      "Madurai",
+      "Thanjavur"
     ],
     "correct": 0,
-    "explanation": "Ellora Caves were inscribed on the UNESCO list in 1983."
+    "explanation": "The Sri Ranganathaswamy Temple is located in Srirangam, a river island in the city of Tiruchirappalli, Tamil Nadu."
   },
   {
     "id": 38,
-    "question": "Which Karnataka site features both Dravidian and Nagara architectural styles?",
+    "question": "Which of these temples is an important pilgrimage site for Sikhs and is located in the Himalayan region?",
     "options": [
-      "Pattadakal",
-      "Hampi",
-      "Aihole",
-      "Belur"
+      "Hemkund Sahib",
+      "Golden Temple, Amritsar",
+      "Hazur Sahib, Nanded",
+      "Gurdwara Bangla Sahib"
     ],
     "correct": 0,
-    "explanation": "Pattadakal uniquely combines northern Nagara and southern Dravidian styles."
+    "explanation": "Gurudwara Hemkund Sahib, a revered Sikh pilgrimage site, is located in the Chamoli district of Uttarakhand."
   },
   {
     "id": 39,
-    "question": "Which temple is depicted on the old ₹10 Indian note?",
+    "question": "Which temple is located at the confluence of the Cauvery and Bhavani rivers?",
     "options": [
-      "Sun Temple",
+      "Sangameswarar Temple",
+      "Meenakshi Amman Temple",
       "Brihadeshwara Temple",
-      "Mahabodhi Temple",
-      "Khajuraho Temple"
+      "Ranganathaswamy Temple"
     ],
     "correct": 0,
-    "explanation": "The Konark Sun Temple's chariot wheel appears on the ₹10 note."
+    "explanation": "The Sangameswarar Temple in Bhavani, Tamil Nadu, is located at the confluence of the Cauvery, Bhavani, and the invisible Amrita rivers."
   },
   {
     "id": 40,
-    "question": "The Mahabodhi Tree at Bodh Gaya is believed to be a descendant of which original tree?",
+    "question": "The famous Murdeshwar Temple is known for its towering statue of which deity?",
     "options": [
-      "Sri Maha Bodhi",
-      "Kalpavriksha",
-      "Ashvattha",
-      "Sandalwood Tree"
+      "Lord Shiva",
+      "Lord Vishnu",
+      "Lord Ganesha",
+      "Goddess Parvati"
     ],
     "correct": 0,
-    "explanation": "The tree is believed to descend from the original Bodhi Tree under which Buddha meditated."
+    "explanation": "The Murdeshwar Temple in Karnataka has a 123-foot-tall statue of Lord Shiva, making it one of the tallest Shiva statues in the world."
   },
   {
     "id": 41,
-    "question": "Ramappa Temple's roof is built with which unique feature?",
+    "question": "Which of these temples is known for its floating stones?",
     "options": [
-      "Floating bricks",
-      "Marble slabs",
-      "Iron beams",
-      "Teak wood"
+      "Ramanathaswamy Temple",
+      "Tirupati Balaji Temple",
+      "Konark Sun Temple",
+      "Meenakshi Amman Temple"
     ],
     "correct": 0,
-    "explanation": "The lightweight floating bricks reduce the weight on the temple's roof."
+    "explanation": "The Ramanathaswamy Temple in Rameswaram, Tamil Nadu, is believed to have 'floating stones' in the nearby 'Ramar Sethu' or Adam's Bridge."
   },
   {
     "id": 42,
-    "question": "Which UNESCO temple site is located near the Bay of Bengal coast?",
+    "question": "Which temple in Kerala is known for its unique treasure vault?",
     "options": [
-      "Mahabalipuram",
-      "Brihadeshwara Temple",
-      "Khajuraho",
-      "Ramappa Temple"
+      "Padmanabhaswamy Temple",
+      "Guruvayur Temple",
+      "Sabarimala Temple",
+      "Vadakkunnathan Temple"
     ],
     "correct": 0,
-    "explanation": "Mahabalipuram lies on the Coromandel Coast along the Bay of Bengal."
+    "explanation": "The Padmanabhaswamy Temple in Thiruvananthapuram, Kerala, is famous for its six treasure vaults, with 'Vault B' believed to be sealed and untouched."
   },
   {
     "id": 43,
-    "question": "The Virupaksha Temple in Pattadakal is modelled after which earlier temple?",
+    "question": "The Virupaksha Temple in Pattadakal, Karnataka, was built to commemorate the victory of which king?",
     "options": [
-      "Kailasanatha Temple at Kanchipuram",
-      "Meenakshi Temple",
-      "Sun Temple",
-      "Lingaraj Temple"
+      "Vikramaditya II",
+      "Raja Raja Chola I",
+      "Krishnadevaraya",
+      "Chalukya Pulakeshin II"
     ],
     "correct": 0,
-    "explanation": "It was built as a replica of the Kailasanatha Temple."
+    "explanation": "The Virupaksha Temple was built by Queen Lokamahadevi to commemorate her husband Vikramaditya II's victory over the Pallavas."
   },
   {
     "id": 44,
-    "question": "Khajuraho temples are divided into how many groups?",
+    "question": "Which temple in Delhi is the oldest and one of the largest Hindu temples?",
     "options": [
-      "Three",
-      "Two",
-      "Four",
-      "Five"
+      "Hanuman Temple, Connaught Place",
+      "Akshardham Temple",
+      "Laxminarayan Temple",
+      "Chattarpur Temple"
     ],
     "correct": 0,
-    "explanation": "They are grouped into western, eastern, and southern clusters."
+    "explanation": "The Hanuman Temple in Connaught Place is believed to be one of the oldest temples in Delhi, with references in the Mahabharata."
   },
   {
     "id": 45,
-    "question": "The Ellora Cave complex stretches for approximately how many kilometres?",
+    "question": "Which of these temples is a UNESCO World Heritage Site?",
     "options": [
-      "2 km",
-      "5 km",
-      "1 km",
-      "7 km"
+      "Group of Monuments at Mahabalipuram",
+      "Tirupati Balaji Temple",
+      "Meenakshi Amman Temple",
+      "Lingaraja Temple"
     ],
     "correct": 0,
-    "explanation": "The complex extends over a distance of about 2 km."
+    "explanation": "The Group of Monuments at Mahabalipuram is a collection of 7th and 8th-century religious monuments, and is a UNESCO World Heritage Site."
+  },
+  {
+    "id": 46,
+    "question": "The Brihadeeswarar Temple at Gangaikondacholapuram was built by which Chola king?",
+    "options": [
+      "Rajendra I",
+      "Raja Raja Chola I",
+      "Kulothunga Chola III",
+      "Aditya I"
+    ],
+    "correct": 0,
+    "explanation": "The Brihadeeswarar Temple at Gangaikondacholapuram was built by Rajendra Chola I, son of Raja Raja Chola I, to commemorate his victory over the Pala dynasty."
+  },
+  {
+    "id": 47,
+    "question": "Which temple is located on the bank of the river Tungabhadra?",
+    "options": [
+      "Virupaksha Temple, Hampi",
+      "Brihadeshwara Temple",
+      "Meenakshi Amman Temple",
+      "Dwarkadhish Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Virupaksha Temple is located in Hampi on the banks of the Tungabhadra River."
+  },
+  {
+    "id": 48,
+    "question": "Which temple is dedicated to the Hindu goddess Kamakhya and is a famous pilgrimage site for Tantric worship?",
+    "options": [
+      "Kamakhya Temple",
+      "Vaishno Devi Temple",
+      "Meenakshi Amman Temple",
+      "Mahalakshmi Temple, Kolhapur"
+    ],
+    "correct": 0,
+    "explanation": "The Kamakhya Temple in Guwahati, Assam, is a revered pilgrimage site for Tantric worship and is one of the oldest of the 51 Shakti Pithas."
+  },
+  {
+    "id": 49,
+    "question": "Which temple is located at the confluence of the rivers Ganga, Yamuna, and the mythical Saraswati?",
+    "options": [
+      "Triveni Sangam",
+      "Kedarnath Temple",
+      "Gangotri Temple",
+      "Badrinath Temple"
+    ],
+    "correct": 0,
+    "explanation": "The Triveni Sangam is a famous pilgrimage site in Prayagraj (Allahabad), Uttar Pradesh, where the three rivers meet."
   }
 ]
