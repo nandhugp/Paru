@@ -1,602 +1,602 @@
 [
   {
     "id": 0,
-    "question": "Which of the following bodies replaced the Planning Commission of India in 2015?",
+    "question": "Which of the following temples is NOT part of the 'Great Living Chola Temples' UNESCO World Heritage Site?",
     "options": [
-      "National Development Council",
-      "Finance Commission",
-      "NITI Aayog",
-      "Reserve Bank of India"
+      "Brihadeshwara Temple at Thanjavur",
+      "Gangaikonda Cholapuram Temple",
+      "Airavatesvara Temple at Darasuram",
+      "Group of Monuments at Mahabalipuram"
     ],
-    "correct": 2,
-    "explanation": "NITI Aayog (National Institution for Transforming India) was established in 2015 to replace the Planning Commission. It serves as a policy think tank for the Government of India."
+    "correct": 3,
+    "explanation": "The Group of Monuments at Mahabalipuram was built by the Pallava Dynasty. The other three temples are part of the 'Great Living Chola Temples' and were built by the Chola Dynasty."
   },
   {
     "id": 1,
-    "question": "The Human Development Index (HDI) is a composite index published by which organization?",
+    "question": "The Sun Temple at Konark, a UNESCO World Heritage Site in Odisha, was built by which dynasty?",
     "options": [
-      "World Bank",
-      "International Monetary Fund (IMF)",
-      "United Nations Development Programme (UNDP)",
-      "World Trade Organization (WTO)"
+      "Chola Dynasty",
+      "Eastern Ganga Dynasty",
+      "Pallava Dynasty",
+      "Chalukya Dynasty"
     ],
-    "correct": 2,
-    "explanation": "The Human Development Index (HDI) is a statistical tool used to measure a country's overall achievement in its social and economic dimensions. It is published annually by the United Nations Development Programme (UNDP)."
+    "correct": 1,
+    "explanation": "The Sun Temple at Konark was built by King Narasimhadeva I of the Eastern Ganga Dynasty in the 13th century."
   },
   {
     "id": 2,
-    "question": "The concept of 'Sustainable Development' is defined as development that meets the needs of the present without compromising the ability of future generations to meet their own needs. This definition was provided in which report?",
+    "question": "The Khajuraho Group of Monuments, famous for their Nagara-style architecture and sculptures, were built by which dynasty?",
     "options": [
-      "Brundtland Report (Our Common Future)",
-      "Rio Declaration on Environment and Development",
-      "Kyoto Protocol",
-      "Stockholm Declaration"
+      "Chandela Dynasty",
+      "Rashtrakuta Dynasty",
+      "Vijayanagara Empire",
+      "Kakatiya Dynasty"
     ],
     "correct": 0,
-    "explanation": "The most widely accepted definition of sustainable development was given in the Brundtland Report, titled 'Our Common Future,' published by the World Commission on Environment and Development in 1987."
+    "explanation": "The Khajuraho temples in Madhya Pradesh were built by the Chandela Dynasty between 950 and 1050 CE."
   },
   {
     "id": 3,
-    "question": "What is the largest contributing sector to India's GDP?",
+    "question": "Which of the following sites is associated with the Vijayanagara Empire and is a UNESCO World Heritage Site?",
     "options": [
-      "Agriculture",
-      "Industry",
-      "Services",
-      "Manufacturing"
+      "Pattadakal",
+      "Hampi",
+      "Ellora Caves",
+      "Mahabalipuram"
     ],
-    "correct": 2,
-    "explanation": "The services sector, which includes IT, finance, and telecommunications, contributes the largest share to India's GDP, followed by the industrial and agricultural sectors."
+    "correct": 1,
+    "explanation": "The Group of Monuments at Hampi in Karnataka was built by the Vijayanagara Empire between the 14th and 16th centuries."
   },
   {
     "id": 4,
-    "question": "Under which article of the Indian Constitution is the Finance Commission established?",
+    "question": "The Kailasa Temple, a monolithic rock-cut temple, is a part of which UNESCO World Heritage Site?",
     "options": [
-      "Article 243",
-      "Article 280",
-      "Article 324",
-      "Article 352"
+      "Elephanta Caves",
+      "Ajanta Caves",
+      "Khajuraho Group of Monuments",
+      "Ellora Caves"
     ],
-    "correct": 1,
-    "explanation": "The Finance Commission is a constitutional body established under Article 280 of the Constitution of India. It defines the financial relations between the central government and the state governments."
+    "correct": 3,
+    "explanation": "The Kailasa Temple is the most famous part of the Ellora Caves in Maharashtra. It was built by the Rashtrakuta Dynasty, specifically by King Krishna I."
   },
   {
     "id": 5,
-    "question": "The New Economic Policy of 1991 is also known as:",
+    "question": "The Mahabodhi Temple in Bodh Gaya, a UNESCO site, was originally built by which Mauryan Emperor?",
     "options": [
-      "LPG Reforms",
-      "NEP",
-      "FEMA",
-      "VAT"
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
     ],
-    "correct": 0,
-    "explanation": "The New Economic Policy of 1991, introduced by Dr. Manmohan Singh, is popularly known as the LPG Reforms, which stands for Liberalization, Privatization, and Globalization."
+    "correct": 2,
+    "explanation": "The Mahabodhi Temple was originally built by Emperor Ashoka in the 3rd century BCE to mark the spot where the Buddha attained enlightenment. It was later rebuilt."
   },
   {
     "id": 6,
-    "question": "Which of the following is an employment generation programme that guarantees 100 days of wage employment to every rural household?",
+    "question": "Ramappa Temple, a recent addition to the UNESCO World Heritage list, is located in which state?",
     "options": [
-      "PM Jan Dhan Yojana",
-      "MGNREGA",
-      "PM Awas Yojana",
-      "Swachh Bharat Abhiyan"
+      "Karnataka",
+      "Tamil Nadu",
+      "Telangana",
+      "Andhra Pradesh"
     ],
-    "correct": 1,
-    "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) is a flagship scheme that aims to enhance the livelihood security of people in rural areas by guaranteeing 100 days of wage employment in a financial year to a rural household whose adult members volunteer to do unskilled manual work."
+    "correct": 2,
+    "explanation": "Ramappa Temple, also known as Rudreshwara Temple, is located in the Mulugu District of Telangana. It was built during the Kakatiya Dynasty."
   },
   {
     "id": 7,
-    "question": "NABARD was established in which year?",
+    "question": "Who was the founder of the Maurya Empire?",
     "options": [
-      "1951",
-      "1982",
-      "1991",
-      "2002"
+      "Ashoka",
+      "Bindusara",
+      "Chandragupta Maurya",
+      "Pushyamitra Shunga"
     ],
-    "correct": 1,
-    "explanation": "The National Bank for Agriculture and Rural Development (NABARD) was established on July 12, 1982, on the recommendations of the B. Sivaramman Committee."
+    "correct": 2,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE after defeating the Nanda dynasty."
   },
   {
     "id": 8,
-    "question": "The National Food Security Act (NFSA) of 2013 aims to provide subsidized food grains to what percentage of the Indian population?",
+    "question": "The famous book 'Arthashastra', a treatise on statecraft, was written by which advisor of Chandragupta Maurya?",
     "options": [
-      "50%",
-      "67%",
-      "75%",
-      "90%"
+      "Megasthenes",
+      "Harishena",
+      "Chanakya (Kautilya)",
+      "V. A. Smith"
     ],
-    "correct": 1,
-    "explanation": "The National Food Security Act, 2013 aims to provide subsidized food grains to approximately two-thirds of the country's population, i.e., 67%."
+    "correct": 2,
+    "explanation": "Chanakya, also known as Kautilya or Vishnugupta, was the guide and mentor of Chandragupta Maurya and the author of 'Arthashastra'."
   },
   {
     "id": 9,
-    "question": "The Pradhan Mantri Mudra Yojana (PMMY) provides loans up to what amount?",
+    "question": "Who was the Greek ambassador who visited Chandragupta Maurya's court and wrote 'Indica'?",
     "options": [
-      "₹ 1 lakh",
-      "₹ 5 lakh",
-      "₹ 10 lakh",
-      "₹ 20 lakh"
+      "Deimachus",
+      "Megasthenes",
+      "Seleucus I Nicator",
+      "Fa-Hien"
     ],
-    "correct": 2,
-    "explanation": "Pradhan Mantri Mudra Yojana provides loans up to ₹ 10 lakh to small entrepreneurs for non-farm sector activities."
+    "correct": 1,
+    "explanation": "Megasthenes was the Greek ambassador sent by Seleucus I Nicator to the court of Chandragupta Maurya. His account of India is recorded in his book 'Indica'."
   },
   {
     "id": 10,
-    "question": "What is the primary function of commercial banks?",
+    "question": "Which Mauryan king is referred to as 'Amitrochates' (destroyer of foes) in Greek accounts?",
     "options": [
-      "Issuing currency",
-      "Lending money and accepting deposits",
-      "Managing government debt",
-      "Regulating financial markets"
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
     ],
     "correct": 1,
-    "explanation": "The main functions of commercial banks are accepting deposits from the public and providing loans for various purposes."
+    "explanation": "Bindusara, the son of Chandragupta Maurya, was known as 'Amitrochates' by the Greeks for his military prowess."
   },
   {
     "id": 11,
-    "question": "Goods and Services Tax (GST) was implemented in India in which year?",
+    "question": "The Kalinga War, which led to Emperor Ashoka's conversion to Buddhism, was fought in which year?",
     "options": [
-      "2014",
-      "2016",
-      "2017",
-      "2018"
+      "322 BCE",
+      "297 BCE",
+      "261 BCE",
+      "185 BCE"
     ],
     "correct": 2,
-    "explanation": "GST was launched in India on July 1, 2017, as a comprehensive indirect tax on the supply of goods and services."
+    "explanation": "The Kalinga War was fought by Ashoka in 261 BCE. The immense bloodshed of this war led to his deep remorse and subsequent conversion to Buddhism."
   },
   {
     "id": 12,
-    "question": "Which institution is responsible for formulating and implementing India's monetary policy?",
+    "question": "Which of the following is NOT a title used by Emperor Ashoka in his inscriptions?",
     "options": [
-      "Ministry of Finance",
-      "State Bank of India",
-      "Reserve Bank of India (RBI)",
-      "SEBI"
+      "Devanampiya",
+      "Piyadasi",
+      "Vikramaditya",
+      "Ashoka"
     ],
     "correct": 2,
-    "explanation": "The Reserve Bank of India (RBI) is the central bank of India and is responsible for formulating and implementing the country's monetary policy."
+    "explanation": "'Vikramaditya' was a title used by Gupta emperors, most notably Chandragupta II and Skandagupta. Ashoka referred to himself as 'Devanampiya' and 'Piyadasi' in his edicts."
   },
   {
     "id": 13,
-    "question": "Inflation is caused by:",
+    "question": "The Lion Capital of Ashoka at Sarnath became the National Emblem of India. The Ashoka Chakra on the Indian flag is also taken from it. The Lion Capital is an example of which of the following?",
     "options": [
-      "Decrease in money supply",
-      "Increase in production",
-      "Increase in money supply",
-      "Decrease in government spending"
+      "Rock Edict",
+      "Pillar Edict",
+      "Stupa",
+      "Barabar Caves"
     ],
-    "correct": 2,
-    "explanation": "Inflation is generally defined as a general increase in prices. An increase in the money supply without a corresponding increase in goods and services can lead to inflation."
+    "correct": 1,
+    "explanation": "The Lion Capital is a capital from an Ashokan Pillar. These pillars were erected across the empire, and the edicts were engraved on them."
   },
   {
     "id": 14,
-    "question": "Income tax is an example of which type of tax?",
+    "question": "The Barabar Caves, the earliest known rock-cut caves in India, were donated by Ashoka to which sect?",
     "options": [
-      "Indirect tax",
-      "Direct tax",
-      "Value Added Tax (VAT)",
-      "Excise duty"
+      "Buddhists",
+      "Jains",
+      "Ajivikas",
+      "Hindu ascetics"
     ],
-    "correct": 1,
-    "explanation": "Income tax is a direct tax because the burden of the tax cannot be shifted to another person. It is paid by the person on whom it is levied."
+    "correct": 2,
+    "explanation": "Ashoka donated the Barabar Caves in Bihar to the Ajivika sect, a non-Buddhist, non-Jain ascetic group."
   },
   {
     "id": 15,
-    "question": "The term 'fiscal deficit' refers to:",
+    "question": "Who was the last ruler of the Maurya Empire?",
     "options": [
-      "The total revenue of the government",
-      "The total expenditure of the government",
-      "The difference between the total expenditure and the total revenue of the government",
-      "The total debt of the government"
+      "Ashoka",
+      "Bindusara",
+      "Brihadratha",
+      "Pushyamitra Shunga"
     ],
     "correct": 2,
-    "explanation": "Fiscal deficit is the excess of total expenditure over total receipts excluding borrowings. It signifies the government's total borrowing requirements for a given fiscal year."
+    "explanation": "Brihadratha was the last Mauryan ruler. He was killed by his commander-in-chief, Pushyamitra Shunga, who then founded the Shunga Dynasty."
   },
   {
     "id": 16,
-    "question": "Which of the following is considered the central bank of India?",
+    "question": "Who is considered the 'real founder' of the Gupta Empire?",
     "options": [
-      "State Bank of India",
-      "ICICI Bank",
-      "Reserve Bank of India",
-      "Punjab National Bank"
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Samudragupta"
     ],
     "correct": 2,
-    "explanation": "The Reserve Bank of India (RBI) is the central bank and the apex monetary institution of India. It was established in 1935."
+    "explanation": "While Sri Gupta was the founder of the dynasty, Chandragupta I is considered the real founder of the empire as he greatly expanded its territory and assumed the title 'Maharajadhiraja'."
   },
   {
     "id": 17,
-    "question": "Microfinance institutions primarily provide financial services to:",
+    "question": "The beginning of the Gupta Era is marked by the ascension of which ruler?",
     "options": [
-      "Large corporations",
-      "Government employees",
-      "Low-income individuals and groups",
-      "High net worth individuals"
+      "Sri Gupta",
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II"
     ],
-    "correct": 2,
-    "explanation": "Microfinance institutions (MFIs) offer small loans and other financial services to low-income individuals who do not have access to formal banking."
+    "correct": 1,
+    "explanation": "The Gupta Era began in 319–320 CE, corresponding to the ascension of Chandragupta I to the throne."
   },
   {
     "id": 18,
-    "question": "Basel III Norms in India are related to:",
+    "question": "Who was famously referred to as the 'Napoleon of India' by historian V. A. Smith?",
     "options": [
-      "Taxation",
-      "Banking supervision and regulation",
-      "Fiscal policy",
-      "Foreign trade policy"
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II",
+      "Skandagupta"
     ],
     "correct": 1,
-    "explanation": "Basel III is an international regulatory framework on banking and is part of an ongoing effort to strengthen the banking sector. The RBI has implemented these norms for Indian banks."
+    "explanation": "Samudragupta was given this title by historian V. A. Smith due to his extensive military conquests across India."
   },
   {
     "id": 19,
-    "question": "Fiscal policy of India is formulated by the:",
+    "question": "The Allahabad Pillar Inscription, which details the conquests of Samudragupta, was composed by his court poet:",
     "options": [
-      "Reserve Bank of India (RBI)",
-      "NITI Aayog",
-      "Ministry of Finance",
-      "Parliament"
+      "Kalidasa",
+      "Harishena",
+      "Aryabhata",
+      "Varahamihira"
     ],
-    "correct": 2,
-    "explanation": "Fiscal policy, which involves government spending and taxation, is formulated by the Ministry of Finance."
+    "correct": 1,
+    "explanation": "Harishena, a court poet of Samudragupta, composed the Allahabad Pillar Inscription (also known as Prayag Prashasti) which is a major source of information about his reign."
   },
   {
     "id": 20,
-    "question": "What is the maximum loan amount under the 'Tarun' category of the Pradhan Mantri Mudra Yojana?",
+    "question": "The 'Navaratnas' or 'Nine Gems' were a group of scholars and artists who adorned the court of which Gupta ruler?",
     "options": [
-      "₹ 50,000",
-      "₹ 5,00,000",
-      "₹ 10,00,000",
-      "₹ 20,00,000"
+      "Samudragupta",
+      "Chandragupta II (Vikramaditya)",
+      "Kumaragupta I",
+      "Skandagupta"
     ],
-    "correct": 2,
-    "explanation": "The Pradhan Mantri Mudra Yojana (PMMY) has three loan categories: Shishu (up to ₹50,000), Kishor (₹50,001 to ₹5 lakh), and Tarun (₹5 lakh to ₹10 lakh)."
+    "correct": 1,
+    "explanation": "The legendary 'Navaratnas', including the famous poet Kalidasa, were part of the court of Chandragupta II, also known as Vikramaditya."
   },
   {
     "id": 21,
-    "question": "Who was the first Finance Minister of India?",
+    "question": "Which Chinese pilgrim visited India during the reign of Chandragupta II and praised the prosperity of the empire?",
     "options": [
-      "Sardar Vallabhbhai Patel",
-      "Dr. B.R. Ambedkar",
-      "Jawaharlal Nehru",
-      "R. K. Shanmukham Chetty"
+      "Xuanzang",
+      "I-tsing",
+      "Fa-Hien",
+      "Hieun Tsang"
     ],
-    "correct": 3,
-    "explanation": "R. K. Shanmukham Chetty was the first Finance Minister of India, serving from 1947 to 1949."
+    "correct": 2,
+    "explanation": "Fa-Hien was a Chinese Buddhist monk who traveled to India and visited the Gupta Empire during the reign of Chandragupta II. He left detailed accounts of his travels."
   },
   {
     "id": 22,
-    "question": "The Balance of Payment (BOP) is a record of all economic transactions between a country and the rest of the world. It consists of which two main accounts?",
+    "question": "The Iron Pillar of Mehrauli, famous for its rust resistance, is attributed to which Gupta ruler?",
     "options": [
-      "Fiscal account and Monetary account",
-      "Revenue account and Capital account",
-      "Current account and Capital account",
-      "Trade account and Investment account"
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta"
     ],
-    "correct": 2,
-    "explanation": "The Balance of Payment (BOP) is divided into the current account (transactions related to trade in goods, services, and transfers) and the capital account (transactions related to capital and financial flows)."
+    "correct": 1,
+    "explanation": "The Iron Pillar of Mehrauli in Delhi is attributed to Chandragupta II. It is a metallurgical marvel that has not rusted for centuries."
   },
   {
     "id": 23,
-    "question": "In India, the Rupee has full convertibility on which account?",
+    "question": "Which Gupta ruler founded the famous Nalanda University?",
     "options": [
-      "Current Account",
-      "Capital Account",
-      "Both Current and Capital Accounts",
-      "Neither Current nor Capital Account"
+      "Chandragupta I",
+      "Samudragupta",
+      "Kumaragupta I",
+      "Skandagupta"
     ],
-    "correct": 0,
-    "explanation": "The Indian Rupee has full convertibility on the current account, which means it can be freely converted for transactions related to trade and services. It has partial convertibility on the capital account."
+    "correct": 2,
+    "explanation": "Nalanda University, an ancient center of learning and a UNESCO World Heritage Site, was founded by Kumaragupta I."
   },
   {
     "id": 24,
-    "question": "FERA (Foreign Exchange Regulation Act) was replaced by which Act?",
+    "question": "The first Hun (Huna) invasions towards the end of the Gupta Empire's reign occurred during the time of which ruler?",
     "options": [
-      "FEMA",
-      "GST",
-      "TRIMS",
-      "TRIPS"
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta",
+      "Vishnugupta"
     ],
-    "correct": 0,
-    "explanation": "The Foreign Exchange Regulation Act (FERA) of 1973 was replaced by the more liberal Foreign Exchange Management Act (FEMA) in 1999."
+    "correct": 1,
+    "explanation": "The first Hun invasions happened towards the end of Kumaragupta I's reign. His son, Skandagupta, successfully repelled them."
   },
   {
     "id": 25,
-    "question": "What kind of exchange rate system does India follow?",
+    "question": "Which of the following is NOT an important monument or achievement of the Gupta period?",
     "options": [
-      "Fixed exchange rate",
-      "Floating exchange rate",
-      "Managed floating exchange rate",
-      "Pegged exchange rate"
+      "Ajanta Caves frescoes",
+      "Dashavatara Temple at Deogarh",
+      "Barabar Caves",
+      "Udayagiri Caves"
     ],
     "correct": 2,
-    "explanation": "India follows a managed floating exchange rate system, where the exchange rate is primarily determined by market forces, but the central bank (RBI) intervenes to smoothen out volatility."
+    "explanation": "The Barabar Caves were built during the Mauryan period under Emperor Ashoka. The other three are prominent examples of Gupta-era art and architecture."
   },
   {
     "id": 26,
-    "question": "Which international organization administers the 'Trade-Related Aspects of Intellectual Property Rights' (TRIPS) agreement?",
+    "question": "The famous Sanskrit poet and dramatist Kalidasa, author of 'Abhijnanasakuntalam' and 'Meghaduta', was a part of which empire's court?",
     "options": [
-      "International Monetary Fund (IMF)",
-      "World Bank",
-      "World Trade Organization (WTO)",
-      "United Nations (UN)"
+      "Maurya Empire",
+      "Gupta Empire",
+      "Chola Dynasty",
+      "Vijayanagara Empire"
     ],
-    "correct": 2,
-    "explanation": "The TRIPS agreement is an international legal agreement between all the member nations of the World Trade Organization (WTO)."
+    "correct": 1,
+    "explanation": "Kalidasa was one of the 'Navaratnas' in the court of Chandragupta II of the Gupta Empire. The Gupta period is often referred to as the 'Golden Age of India' for its cultural and scientific advancements."
   },
   {
     "id": 27,
-    "question": "The IMF provides financial assistance primarily to member countries facing:",
+    "question": "Aryabhata, the great mathematician and astronomer of the Gupta period, is credited with introducing the concept of:",
     "options": [
-      "Trade wars",
-      "Natural disasters",
-      "Balance of payment problems",
-      "Political instability"
+      "Negative numbers",
+      "Zero and Pi ($\pi$)",
+      "Logarithms",
+      "Calculus"
     ],
-    "correct": 2,
-    "explanation": "The International Monetary Fund (IMF) provides financial assistance to its member countries that are experiencing balance of payment difficulties."
+    "correct": 1,
+    "explanation": "Aryabhata, in his work 'Aryabhatiya', introduced the concept of zero as a placeholder and calculated the value of Pi ($\pi$) to four decimal places. He also proposed that the Earth rotates on its axis."
   },
   {
     "id": 28,
-    "question": "Which organization is known as the 'Bretton Woods' institution?",
+    "question": "Which temple, known for its sculptural marvels and rock-cut shrines, was built by the Pallava Dynasty?",
     "options": [
-      "World Health Organization (WHO)",
-      "International Monetary Fund (IMF) and World Bank",
-      "International Labour Organization (ILO)",
-      "World Trade Organization (WTO)"
+      "Airavatesvara Temple",
+      "Sun Temple",
+      "Mahabalipuram",
+      "Ramappa Temple"
     ],
-    "correct": 1,
-    "explanation": "The IMF and the World Bank are often referred to as the 'Bretton Woods' institutions because they were created at the Bretton Woods conference in 1944."
+    "correct": 2,
+    "explanation": "The Group of Monuments at Mahabalipuram, including the famous Shore Temple and Pancha Rathas, were built by the Pallava Dynasty in the 7th-8th centuries."
   },
   {
     "id": 29,
-    "question": "The term 'BRICS' refers to a group of five major emerging national economies. Which of the following is NOT a member of BRICS?",
+    "question": "The Group of Monuments at Pattadakal, a UNESCO site in Karnataka, was built by which dynasty?",
     "options": [
-      "Brazil",
-      "Russia",
-      "India",
-      "South Korea"
+      "Chalukya Dynasty",
+      "Chola Dynasty",
+      "Rashtrakuta Dynasty",
+      "Vijayanagara Empire"
     ],
-    "correct": 3,
-    "explanation": "The BRICS nations are Brazil, Russia, India, China, and South Africa. South Korea is not a member of this group."
+    "correct": 0,
+    "explanation": "The Group of Monuments at Pattadakal was built by the Chalukya Dynasty, particularly during the reign of Vikramaditya II, in the 7th-8th centuries."
   },
   {
     "id": 30,
-    "question": "The European Union (EU) is a political and economic union. How many member states does it currently have?",
+    "question": "Who was the founder of the Shunga Dynasty after the assassination of the last Mauryan ruler?",
     "options": [
-      "15",
-      "27",
-      "35",
-      "50"
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Pushyamitra Shunga",
+      "Brihadratha"
     ],
-    "correct": 1,
-    "explanation": "The European Union is an economic and political union of 27 member states."
+    "correct": 2,
+    "explanation": "Pushyamitra Shunga, the commander-in-chief of the Mauryan army, assassinated the last ruler, Brihadratha, and established the Shunga Dynasty in 185 BCE."
   },
   {
     "id": 31,
-    "question": "SAFTA is a free trade agreement among the members of which regional organization?",
+    "question": "Which of the following books, written by a Greek ambassador, provides a detailed account of Mauryan administration and society?",
     "options": [
-      "ASEAN",
-      "SAARC",
-      "NAFTA",
-      "EU"
+      "Arthashastra",
+      "Indica",
+      "Brihat Samhita",
+      "Astanga Hridaya"
     ],
     "correct": 1,
-    "explanation": "SAFTA (South Asian Free Trade Area) is a free trade arrangement among the member states of the South Asian Association for Regional Cooperation (SAARC)."
+    "explanation": "'Indica' was written by Megasthenes, a Greek ambassador to the court of Chandragupta Maurya. Although the original work is lost, fragments survive through later writers."
   },
   {
     "id": 32,
-    "question": "Which of the following international forums is a major forum for global economic cooperation and includes India as a member?",
+    "question": "The Third Buddhist Council was convened by Emperor Ashoka at which city?",
     "options": [
-      "G-8 (G-7)",
-      "G-20",
-      "OPEC",
-      "NATO"
+      "Taxila",
+      "Sarnath",
+      "Pataliputra",
+      "Sanchi"
     ],
-    "correct": 1,
-    "explanation": "The G-20 is an international forum for the governments and central bank governors from 19 countries and the European Union. India is a member of the G-20."
+    "correct": 2,
+    "explanation": "Ashoka convened the Third Buddhist Council at his capital, Pataliputra (modern Patna), under the presidency of Moggaliputta Tissa to settle doctrinal disputes."
   },
   {
     "id": 33,
-    "question": "The Multilateral Investment Guarantee Agency (MIGA) is a member of which international group?",
+    "question": "Which Gupta ruler successfully repelled the Huna invasions but at a heavy cost to the empire?",
     "options": [
-      "United Nations",
-      "World Bank Group",
-      "International Monetary Fund",
-      "World Trade Organization"
+      "Chandragupta I",
+      "Samudragupta",
+      "Kumaragupta I",
+      "Skandagupta"
     ],
-    "correct": 1,
-    "explanation": "MIGA is a member of the World Bank Group. Its purpose is to promote foreign direct investment into developing countries."
+    "correct": 3,
+    "explanation": "Skandagupta is known for his heroic efforts in repelling the Huna invasions. However, the continuous wars drained the empire's resources, contributing to its decline."
   },
   {
     "id": 34,
-    "question": "What is the main objective of the Pradhan Mantri Jan-Dhan Yojana?",
+    "question": "The Dashavatara Temple at Deogarh is considered a classic example of which architectural style?",
     "options": [
-      "To provide health insurance",
-      "To promote financial inclusion",
-      "To provide housing for the poor",
-      "To ensure food security"
+      "Dravidian",
+      "Nagara",
+      "Vesara",
+      "Gupta style"
     ],
-    "correct": 1,
-    "explanation": "Pradhan Mantri Jan-Dhan Yojana (PMJDY) is a national mission for financial inclusion to ensure access to financial services like banking, savings, and credit."
+    "correct": 3,
+    "explanation": "The Dashavatara Temple at Deogarh is one of the earliest surviving Hindu stone temples and is a prime example of the classical Gupta architectural style, known for its elegant sculptures and a flat roof with a small shikhara."
   },
   {
     "id": 35,
-    "question": "The term 'Crowdfunding' is most closely related to:",
+    "question": "Which of the following is a UNESCO World Heritage site associated with the Maurya Empire?",
     "options": [
-      "Government funding for projects",
-      "Raising small amounts of money from a large number of people",
-      "Large-scale corporate financing",
-      "Loans from international banks"
+      "Khajuraho",
+      "Sanchi Stupa",
+      "Mahabalipuram",
+      "Hampi"
     ],
     "correct": 1,
-    "explanation": "Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the Internet."
+    "explanation": "The Great Stupa at Sanchi, although expanded later, was originally built by Emperor Ashoka. It is a UNESCO World Heritage site and a key monument of the Mauryan period."
   },
   {
     "id": 36,
-    "question": "Which of the following is a direct tax?",
+    "question": "The Rashtrakuta Dynasty is famously associated with the construction of which rock-cut cave temple?",
     "options": [
-      "Goods and Services Tax (GST)",
-      "Customs Duty",
-      "Excise Duty",
-      "Corporation Tax"
+      "Elephanta Caves",
+      "Ajanta Caves",
+      "Ellora Caves (Kailasa Temple)",
+      "Udayagiri Caves"
     ],
-    "correct": 3,
-    "explanation": "Corporation tax is a direct tax on the net income or profit of corporations. GST, Customs Duty, and Excise Duty are indirect taxes."
+    "correct": 2,
+    "explanation": "The Kailasa Temple within the Ellora Caves was built by King Krishna I of the Rashtrakuta Dynasty in the 8th century. It is a monumental achievement of rock-cut architecture."
   },
   {
     "id": 37,
-    "question": "The 15th Finance Commission was headed by:",
+    "question": "Chandragupta Maurya abdicated his throne and adopted which religion before his death?",
     "options": [
-      "Y. V. Reddy",
-      "Vijay Kelkar",
-      "N. K. Singh",
-      "Arvind Panagariya"
+      "Buddhism",
+      "Jainism",
+      "Ajivika",
+      "Hinduism"
     ],
-    "correct": 2,
-    "explanation": "The 15th Finance Commission was constituted in 2017 under the chairmanship of N. K. Singh."
+    "correct": 1,
+    "explanation": "Towards the end of his life, Chandragupta Maurya converted to Jainism, abdicated the throne in favor of his son, and went to Shravanabelagola to perform Sallekhana (fasting to death)."
   },
   {
     "id": 38,
-    "question": "What does a high Fiscal Deficit indicate?",
+    "question": "The 'Varaha' (boar) incarnation of Vishnu is a prominent sculpture in which Gupta-era rock-cut caves?",
     "options": [
-      "The government is earning more than it is spending",
-      "The government is spending more than it is earning",
-      "The government's debt has been fully paid",
-      "The economy is in a surplus"
+      "Ajanta Caves",
+      "Ellora Caves",
+      "Udayagiri Caves",
+      "Elephanta Caves"
     ],
-    "correct": 1,
-    "explanation": "A fiscal deficit occurs when a government's total expenditure exceeds its total revenue, indicating that the government is spending more than it is earning."
+    "correct": 2,
+    "explanation": "The Udayagiri Caves in Madhya Pradesh are known for their rock-cut Hindu sculptures, with the magnificent relief of the Varaha incarnation being a highlight. The caves are a significant example of Gupta art."
   },
   {
     "id": 39,
-    "question": "Which of the following is a quantitative tool of monetary policy used by the RBI?",
+    "question": "Which Gupta king strengthened his empire through a marriage alliance with a Lichchhavi princess named Kumaradevi?",
     "options": [
-      "Moral Suasion",
-      "Repo Rate",
-      "Selective Credit Control",
-      "Direct Action"
+      "Sri Gupta",
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II"
     ],
     "correct": 1,
-    "explanation": "The Repo Rate is a quantitative tool of monetary policy. Quantitative tools are used to control the overall supply of money, whereas qualitative tools like 'Moral Suasion' are used for selective credit control."
+    "explanation": "Chandragupta I's marriage to Kumaradevi, a princess of the powerful Lichchhavi clan, gave him a strategic advantage and greatly contributed to the expansion of his empire."
   },
   {
     "id": 40,
-    "question": "What is the main objective of the 'Trade-Related Investment Measures' (TRIMS) agreement?",
+    "question": "Which of the following dynasties built the Group of Monuments at Mahabalipuram?",
     "options": [
-      "To promote intellectual property rights",
-      "To promote trade in services",
-      "To restrict certain investment measures that affect trade",
-      "To provide aid to developing countries"
+      "Chola",
+      "Pallava",
+      "Chalukya",
+      "Rashtrakuta"
     ],
-    "correct": 2,
-    "explanation": "TRIMS, an agreement of the WTO, restricts countries from imposing certain investment measures on foreign investors that are trade-related."
+    "correct": 1,
+    "explanation": "The Pallava Dynasty built the famous monuments at Mahabalipuram, including the rock-cut rathas and the Shore Temple, during the 7th and 8th centuries."
   },
   {
     "id": 41,
-    "question": "The IBSA (India-Brazil-South Africa) Dialogue Forum is an example of:",
+    "question": "Who was the last ruler of the Gupta Empire before its disintegration?",
     "options": [
-      "North-South cooperation",
-      "East-West cooperation",
-      "South-South cooperation",
-      "Trilateral trade agreement"
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta",
+      "The last rulers were weak, and the empire disintegrated gradually."
     ],
-    "correct": 2,
-    "explanation": "IBSA is a forum for South-South cooperation, which promotes development and cooperation among developing countries."
+    "correct": 3,
+    "explanation": "There was no single 'last ruler' in the same way as with the Maurya Empire. After Skandagupta, the empire faced a series of weak successors, internal revolts, and continuous Hun invasions, leading to its gradual disintegration."
   },
   {
     "id": 42,
-    "question": "What is the primary role of the International Finance Corporation (IFC)?",
+    "question": "The Chola king who built the Gangaikonda Cholapuram Temple was:",
     "options": [
-      "Providing loans to governments for infrastructure projects",
-      "Offering investment and advisory services to encourage private sector development",
-      "Managing international currency exchange rates",
-      "Providing grants for poverty alleviation"
+      "Raja Raja Chola I",
+      "Rajendra Chola I",
+      "Rajaraja Chola II",
+      "Karikala Chola"
     ],
     "correct": 1,
-    "explanation": "The IFC, a member of the World Bank Group, provides investment, advisory, and asset management services to encourage private sector development in developing countries."
+    "explanation": "The Gangaikonda Cholapuram Temple was built by Rajendra Chola I to commemorate his victories over the kings of the Ganges valley."
   },
   {
     "id": 43,
-    "question": "Which of the following is NOT a component of the 'LPG Reforms' of 1991?",
+    "question": "Which Gupta ruler's coins depicted him playing the Veena, suggesting his love for music?",
     "options": [
-      "Liberalization",
-      "Privatization",
-      "Globalization",
-      "Nationalization"
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I"
     ],
-    "correct": 3,
-    "explanation": "The New Economic Policy of 1991 included Liberalization, Privatization, and Globalization. Nationalization, which is the process of a government taking control of a private company, was not a part of these reforms."
+    "correct": 1,
+    "explanation": "Samudragupta issued several types of gold coins, one of which shows him playing the Veena, highlighting his artistic and cultural inclinations."
   },
   {
     "id": 44,
-    "question": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme provides:",
+    "question": "Emperor Ashoka’s famous edicts were engraved on rocks and pillars primarily in which script?",
     "options": [
-      "Crop insurance to farmers",
-      "Income support to small and marginal farmers",
-      "Subsidized fertilizers to farmers",
-      "Loans to farmers at low interest rates"
+      "Sanskrit",
+      "Pali",
+      "Brahmi",
+      "Devanagari"
     ],
-    "correct": 1,
-    "explanation": "PM-KISAN is a central sector scheme that provides income support of ₹6000 per year to all eligible small and marginal landholding farmer families."
+    "correct": 2,
+    "explanation": "The majority of Ashoka’s rock and pillar edicts were written in Prakrit language using the Brahmi script. Some edicts in the northwest were in Kharosthi, Aramaic, and Greek scripts."
   },
   {
     "id": 45,
-    "question": "The WTO replaced which organization in 1995?",
+    "question": "The Elephanta Caves, located on an island in Mumbai Harbour, were built by which dynasty?",
     "options": [
-      "NAFTA",
-      "GATT",
-      "ASEAN",
-      "SAARC"
+      "Gupta",
+      "Chalukya",
+      "Konkan Maurya / Kalachuri",
+      "Rashtrakuta"
     ],
-    "correct": 1,
-    "explanation": "The World Trade Organization (WTO) was created in 1995 to replace the General Agreement on Tariffs and Trade (GATT)."
+    "correct": 2,
+    "explanation": "The Elephanta Caves, known for their large rock-cut sculptures, were built by the Konkan Maurya rulers or the early Kalachuri dynasty between the 5th and 8th centuries."
   },
   {
     "id": 46,
-    "question": "Which of the following is a key feature of the Indian economy?",
+    "question": "The term 'Devanampiya' and 'Piyadasi', found in Ashoka's inscriptions, mean:",
     "options": [
-      "Agrarian economy with a majority of GDP from agriculture",
-      "A developed economy with low poverty rates",
-      "A mixed economy with a large service sector",
-      "A centrally planned economy with no private sector"
+      "Beloved of the Gods and Pleasant to behold",
+      "King of Kings and Son of the Gods",
+      "Mighty Conqueror and Destroyer of Foes",
+      "Follower of Dhamma and Buddhist Saint"
     ],
-    "correct": 2,
-    "explanation": "The Indian economy is characterized as a developing mixed economy where both the public and private sectors play a significant role, and the service sector contributes the most to the GDP."
+    "correct": 0,
+    "explanation": "'Devanampiya' means 'Beloved of the Gods' and 'Piyadasi' means 'Pleasant to behold'. These are the titles Ashoka used to refer to himself in his edicts."
   },
   {
     "id": 47,
-    "question": "What is the main objective of 'Operation Twist' conducted by the RBI?",
+    "question": "Which of the following is a work of the great Sanskrit poet Kalidasa?",
     "options": [
-      "To increase short-term interest rates",
-      "To reduce long-term interest rates by buying and selling government securities",
-      "To manage the exchange rate of the rupee",
-      "To provide loans to commercial banks"
+      "Arthashastra",
+      "Brihat Samhita",
+      "Abhijnanasakuntalam",
+      "Amarakosha"
     ],
-    "correct": 1,
-    "explanation": "Operation Twist involves the simultaneous buying of long-term government securities and selling of short-term government securities to bring down long-term interest rates."
+    "correct": 2,
+    "explanation": "'Abhijnanasakuntalam' (The Recognition of Shakuntala) is one of the most famous Sanskrit plays written by Kalidasa during the Gupta period."
   },
   {
     "id": 48,
-    "question": "The 'Poverty Line' in India is primarily defined based on:",
+    "question": "Who was the author of the 'Amarakosha', a Sanskrit thesaurus from the Gupta period?",
     "options": [
-      "Monthly income per household",
-      "Per capita consumption expenditure",
-      "Ownership of assets",
-      "Educational qualifications"
+      "Aryabhata",
+      "Varahamihira",
+      "Amarasimha",
+      "Vagbhata"
     ],
-    "correct": 1,
-    "explanation": "The poverty line in India is traditionally estimated based on consumption expenditure per capita. Various committees like the Tendulkar and Rangarajan committees have used this approach."
+    "correct": 2,
+    "explanation": "Amarasimha, one of the Navaratnas in the court of Chandragupta II, compiled the 'Amarakosha', a renowned Sanskrit lexicon."
   },
   {
     "id": 49,
-    "question": "Which of the following is a key component of India's Foreign Trade Policy 2015-20?",
+    "question": "Which of the following UNESCO World Heritage sites is located in Tamil Nadu?",
     "options": [
-      "Promoting import substitution",
-      "Introducing the Merchandise Exports from India Scheme (MEIS)",
-      "Restricting Foreign Direct Investment (FDI)",
-      "Nationalizing all major export-import businesses"
+      "Group of Monuments at Pattadakal",
+      "Ramappa Temple",
+      "Sun Temple at Konark",
+      "Airavatesvara Temple at Darasuram"
     ],
-    "correct": 1,
-    "explanation": "The Foreign Trade Policy 2015-20 introduced schemes like MEIS and SEIS to promote exports and increase India's share in global trade."
+    "correct": 3,
+    "explanation": "The Airavatesvara Temple is one of the 'Great Living Chola Temples' located in Darasuram, Tamil Nadu. Pattadakal is in Karnataka, Ramappa is in Telangana, and Konark is in Odisha."
   }
 ]
